@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "85139beb-5590-4ec4-88b4-f7863ef9d5af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 514,
+  "platformSettings": {},
+  "subMetas": {
+    "Ranireadsmanybooks": {
+      "ver": "1.0.4",
+      "uuid": "7ac084cd-873d-496c-8b93-521b54a18191",
+      "rawTextureUuid": "85139beb-5590-4ec4-88b4-f7863ef9d5af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 514,
+      "rawWidth": 1073,
+      "rawHeight": 514,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f9ddcd32-e8c4-479e-b0ca-96c4dd7c6039",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l11_girlhasgreenmangoes": {
+      "ver": "1.0.4",
+      "uuid": "c3203955-2270-4ce7-bfb3-2e14f42b14b0",
+      "rawTextureUuid": "f9ddcd32-e8c4-479e-b0ca-96c4dd7c6039",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "rows": [
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[Do] you like bananas[?]",
+      "Do_you_like_bananas.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[How] are you[?]",
+      "How_are_you.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[You are kind.]",
+      "You_are_kind.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "jumpsentence",
+      "1",
+      "Description",
+      "[You] are tall[.]",
+      "You_are_tall.mp3",
+      "y",
+      "unlocked"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "you",
+      "you",
+      "happy",
+      "run",
+      "",
+      "Choose the Pronoun",
+      "choosetherightone.m4a"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "you",
+      "hot",
+      "sad",
+      "you",
+      "",
+      "Choose the Pronoun",
+      "choosetherightone.m4a"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "You are too dirty!",
+      "Now I like to wash!",
+      "I don't want to wash!",
+      "You are too dirty!",
+      "",
+      "",
+      "mothersaysyouaretoodirty.m4a"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "You are kind.",
+      "You am kind.",
+      "You are kind.",
+      "You is kind.",
+      "",
+      "",
+      "choosethecorrectsentence.m4a"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "sentence_sentence",
+      "You",
+      "Anand",
+      "John",
+      "You",
+      "",
+      "___ are tall. ",
+      "You_are_tall.mp3"
+    ]
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "24f28026-ff27-420c-ad1a-d4f49c71b709",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 1188,
+  "platformSettings": {},
+  "subMetas": {
+    "I_eat_(girl)": {
+      "ver": "1.0.4",
+      "uuid": "57687f6c-62d1-4d96-a15e-eb3322a53405",
+      "rawTextureUuid": "24f28026-ff27-420c-ad1a-d4f49c71b709",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 1188,
+      "rawWidth": 1073,
+      "rawHeight": 1188,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

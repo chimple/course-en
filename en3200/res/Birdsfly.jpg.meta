@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "44e13529-dcde-49d5-aca5-bde88912bff6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 770,
+  "platformSettings": {},
+  "subMetas": {
+    "Birdsfly": {
+      "ver": "1.0.4",
+      "uuid": "2d0381b3-b8b5-4eb1-93c1-9acd8e43ea91",
+      "rawTextureUuid": "44e13529-dcde-49d5-aca5-bde88912bff6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 770,
+      "rawWidth": 1073,
+      "rawHeight": 770,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

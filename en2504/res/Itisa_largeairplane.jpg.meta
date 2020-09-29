@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c50f330f-8077-4e1b-a215-9c2b87804b6e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1073,
+  "height": 580,
+  "platformSettings": {},
+  "subMetas": {
+    "Itisa_largeairplane": {
+      "ver": "1.0.4",
+      "uuid": "fe78c5bb-7b1c-4fb0-b5bb-8fd194cac924",
+      "rawTextureUuid": "c50f330f-8077-4e1b-a215-9c2b87804b6e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1073,
+      "height": 580,
+      "rawWidth": 1073,
+      "rawHeight": 580,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

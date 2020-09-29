@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5122b272-88e0-43ff-8e2a-8b561f4230d1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l17_shegivingwater": {
+      "ver": "1.0.4",
+      "uuid": "1f33c898-b556-47d0-a745-6669133bf86b",
+      "rawTextureUuid": "5122b272-88e0-43ff-8e2a-8b561f4230d1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

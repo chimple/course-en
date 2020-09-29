@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "56d0dd0d-2cb2-4dd3-8e8c-ecc00ee82309",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 868,
+  "height": 689,
+  "platformSettings": {},
+  "subMetas": {
+    "l13_busstopfrontschool": {
+      "ver": "1.0.4",
+      "uuid": "7d668f3e-90f7-4d93-a6db-b281e95a84ce",
+      "rawTextureUuid": "56d0dd0d-2cb2-4dd3-8e8c-ecc00ee82309",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 868,
+      "height": 689,
+      "rawWidth": 868,
+      "rawHeight": 689,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
