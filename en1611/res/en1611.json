@@ -37,8 +37,8 @@
       "c,r,o,s",
       "cross.mp3",
       "cross.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -49,8 +49,8 @@
       "c,r,o,s,s",
       "cross.mp3",
       "cross.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "speakingpet",

@@ -27,8 +27,8 @@
       "bl,ouse",
       "blouse.mp3",
       "blouse.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -39,8 +39,8 @@
       "s,h,o,u,l,d,e,r",
       "shoulder.mp3",
       "shoulder.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -51,8 +51,8 @@
       "t,o,u,c,h",
       "touch.mp3",
       "touch.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "speakingpet",

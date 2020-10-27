@@ -27,8 +27,8 @@
       "l,ea,f",
       "leaf.mp3",
       "leaf.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -39,8 +39,8 @@
       "l,eaf",
       "leaf.mp3",
       "leaf.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -51,8 +51,8 @@
       "t,e,a,c,h,e,r",
       "teacher.mp3",
       "teacher.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "rocket",
@@ -63,8 +63,8 @@
       "t,e,a,c,h,r",
       "teacher.mp3",
       "teacher.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "quizliteracy",
