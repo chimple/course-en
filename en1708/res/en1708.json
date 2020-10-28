@@ -9,8 +9,8 @@
       "f,arm",
       "farm.mp3",
       "farm.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -21,8 +21,8 @@
       "p,a,r,k",
       "park.mp3",
       "park.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "rocket",
@@ -33,8 +33,8 @@
       "p,ark",
       "park.mp3",
       "park.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "speakingpet",

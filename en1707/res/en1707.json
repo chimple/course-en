@@ -42,8 +42,8 @@
       "c,a,r,o,t",
       "carrot.mp3",
       "carrot.png",
-      "True",
-      "False"
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -54,8 +54,8 @@
       "c,a,r,r,o,t",
       "carrot.mp3",
       "carrot.png",
-      "False",
-      "True"
+      "false",
+      "true"
     ],
     [
       "rocket",
@@ -66,8 +66,8 @@
       "f,a,r,m",
       "farm.mp3",
       "farm.png",
-      "False",
-      "False"
+      "false",
+      "false"
     ],
     [
       "quizliteracy",
