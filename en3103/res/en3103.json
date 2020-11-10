@@ -22,7 +22,7 @@
       "createsentence",
       "1",
       "Description",
-      "The tree/is/tall",
+      "The tree/is/beautiful",
       "dry",
       "The_treegrowstall.jpg",
       "The_tree_is_beautiful.mp3"
@@ -67,10 +67,10 @@
       "1",
       "Description",
       "image_sentence",
-      "The tree is tall.",
+      "The tree is beautiful.",
       "The tree is dry. ",
       "The tree is short. ",
-      "The tree is tall.",
+      "The tree is beautiful.",
       "The_treegrowstall.jpg",
       "",
       "The_tree_is_beautiful.mp3"
