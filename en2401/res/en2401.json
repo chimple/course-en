@@ -165,7 +165,7 @@
       "mouth",
       "baby",
       "ears",
-      "man",
+      "mouth",
       "",
       "This is my ______. ",
       "This_is_my_mouth.mp3"
@@ -177,7 +177,7 @@
       "word_word",
       "chest",
       "ears",
-      "dad",
+      "chest",
       "baby",
       "",
       "Where is your ______?",
@@ -194,7 +194,7 @@
       "dad",
       "",
       "This is my ______. ",
-      "eye.mp3"
+      "This_is_my_eye.mp3"
     ],
     [
       "quizliteracy",
@@ -202,12 +202,12 @@
       "Description",
       "word_word",
       "face",
-      "dad",
+      "face",
       "man",
       "ears",
       "",
       "This is my ______. ",
-      "face.mp3"
+      "This_is_my_face.mp3"
     ]
   ]
 }
