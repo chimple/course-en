@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "I have a [car.]",
+      "I[ ]have[ ]a[ ]car[.]",
       "I_have_a_car.mp3",
       "n",
       "unlocked"
@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "She is a [teacher.]",
+      "She[ ]is[ ]a[ ]teacher[.]",
       "She_is_a_teacher.mp3",
       "n",
       "unlocked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "He has a [book.]",
+      "He[ ]has[ ]a[ ]book[.]",
       "He_has_a_book.mp3",
       "n",
       "unlocked"
@@ -31,7 +31,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[They] don't [eat] fish[.]",
+      "They[ ]don't[ ]eat[ ]fish[.]",
       "They_don't_eat_fish.mp3",
       "y",
       "unlocked"
@@ -40,7 +40,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[She] doesn't [like] cats[.]",
+      "She[ ]doesn't[ ]like[ ]cats[.]",
       "She_doesn't_like_cats.mp3",
       "y",
       "unlocked"
@@ -49,7 +49,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[I] can't [read].",
+      "I[ ]can't[ ]read[.]",
       "I_can't_read.mp3",
       "y",
       "unlocked"
@@ -58,7 +58,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[We] like bananas[.]",
+      "We[ ]like[ ]bananas[.]",
       "We_like_bananas.mp3",
       "y",
       "unlocked"

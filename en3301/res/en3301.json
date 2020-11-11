@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[Is] she fast[?]",
+      "Is[ ]she[ ]fast[?]",
       "Is_she_fast.mp3",
       "y",
       "unlocked"
@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[How] are you[?]",
+      "How[ ]are[ ]you[?]",
       "How_are_you.mp3",
       "y",
       "unlocked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[Who] is she[?]",
+      "Who[ ]is[ ]she[?]",
       "Who_is_she.mp3",
       "y",
       "unlocked"
@@ -31,7 +31,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[Do] you like bananas[?]",
+      "Do[ ]you[ ]like[ ]bananas[?]",
       "Do_you_like_bananas.mp3",
       "y",
       "unlocked"
@@ -40,7 +40,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[Does] he like bananas[?]",
+      "Does[ ]he[ ]like[ ]bananas[?]",
       "Does_he_like_bananas.mp3",
       "y",
       "unlocked"
