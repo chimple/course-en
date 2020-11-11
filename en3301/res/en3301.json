@@ -58,28 +58,10 @@
       "createsentence",
       "1",
       "Description",
-      "Where/is/the bat?",
-      "Who",
-      "Whereisthe_bat.jpg",
-      "Where_is_the_bat.mp3"
-    ],
-    [
-      "createsentence",
-      "1",
-      "Description",
       "Where/is/the cat?",
       "",
       "Whereisthe_cat.jpg",
       "whereisthecat.mp3"
-    ],
-    [
-      "createsentence",
-      "1",
-      "Description",
-      "Where/is/the cat?",
-      "Why",
-      "Whereisthe_cat.jpg",
-      "Where_is_the_cat.mp3"
     ],
     [
       "fillblank",
