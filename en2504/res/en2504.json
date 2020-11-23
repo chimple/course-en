@@ -40,15 +40,6 @@
       "createsentence",
       "1",
       "Description",
-      "It/is/a large/airplane",
-      "are",
-      "Itisa_largeairplane.jpg",
-      "itisalargeairplane.mp3"
-    ],
-    [
-      "createsentence",
-      "1",
-      "Description",
       "It/is/a red/ball",
       "",
       "Itisa_redball.jpg",
@@ -58,15 +49,6 @@
       "createsentence",
       "1",
       "Description",
-      "It/is/a red/ball",
-      "They",
-      "Itisa_redball.jpg",
-      "itisaredball.mp3"
-    ],
-    [
-      "createsentence",
-      "1",
-      "Description",
       "It/is/a strong/lion",
       "",
       "Itisa_stronglion.jpg",
@@ -76,10 +58,28 @@
       "createsentence",
       "1",
       "Description",
+      "It/is/a large/airplane",
+      "are",
+      "Itisa_largeairplane.jpg",
+      "itisalargeairplane.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
       "It/is/a strong/lion",
       "are",
       "Itisa_stronglion.jpg",
       "itisastronglion.mp3"
+    ],
+    [
+      "createsentence",
+      "1",
+      "Description",
+      "It/is/a red/ball",
+      "They",
+      "Itisa_redball.jpg",
+      "itisaredball.mp3"
     ],
     [
       "createsentence",
