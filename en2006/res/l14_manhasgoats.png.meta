@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "256818da-0af7-4c50-a081-f1fc8b13a191",
+  "uuid": "e87ec2d4-1a31-4294-b784-dc83b7c6f0c1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -11,10 +11,10 @@
   "height": 689,
   "platformSettings": {},
   "subMetas": {
-    "l4_1boy2chairs": {
+    "l14_manhasgoats": {
       "ver": "1.0.4",
-      "uuid": "0d8ce8e9-1e03-468c-8ae7-3f5bb0cac915",
-      "rawTextureUuid": "256818da-0af7-4c50-a081-f1fc8b13a191",
+      "uuid": "4da91e36-7df2-420a-8950-8d3b7da4a06e",
+      "rawTextureUuid": "e87ec2d4-1a31-4294-b784-dc83b7c6f0c1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
