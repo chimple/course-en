@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "4028aef6-6019-45c1-a8be-ef26585022c1",
+  "uuid": "0f2c62c6-ff79-4f34-a111-6ac7a3bb80b1",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,8 +13,8 @@
   "subMetas": {
     "zebra": {
       "ver": "1.0.4",
-      "uuid": "a77bd6bb-d99e-4922-a5a8-4f573ecfe1db",
-      "rawTextureUuid": "4028aef6-6019-45c1-a8be-ef26585022c1",
+      "uuid": "dec4fea5-cee8-45ff-856e-916da351f2b6",
+      "rawTextureUuid": "0f2c62c6-ff79-4f34-a111-6ac7a3bb80b1",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -22,10 +22,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 1200,
-      "height": 1000,
-      "rawWidth": 1200,
-      "rawHeight": 1000,
+      "width": 400,
+      "height": 333,
+      "rawWidth": 400,
+      "rawHeight": 333,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
