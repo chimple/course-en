@@ -32,17 +32,17 @@
       "rocket.png",
       "square.m4a",
       "abcdefghijklmnopqrstuvwxyz"
-    ],
+    ],    
     [
       "rocket",
       "1",
       "Description",
-      "carrot",
-      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
-      "c,a,r,o,t",
-      "carrot.mp3",
-      "carrot.png",
-      "true",
+      "farm",
+      "f,a,r,m",
+      "f,a,r,m",
+      "farm.mp3",
+      "farm1.png",
+      "false",
       "false"
     ],
     [
@@ -54,19 +54,7 @@
       "c,a,r,r,o,t",
       "carrot.mp3",
       "carrot.png",
-      "false",
-      "true"
-    ],
-    [
-      "rocket",
-      "1",
-      "Description",
-      "farm",
-      "f,a,r,m",
-      "f,a,r,m",
-      "farm.mp3",
-      "farm1.png",
-      "false",
+      "true",
       "false"
     ],
     [

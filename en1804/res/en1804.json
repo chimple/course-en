@@ -26,19 +26,7 @@
       "l,ea,f",
       "l,ea,f",
       "leaf.mp3",
-      "leaf.png",
-      "false",
-      "false"
-    ],
-    [
-      "rocket",
-      "1",
-      "Description",
-      "leaf",
-      "l,eaf",
-      "l,eaf",
-      "leaf.mp3",
-      "leaf.png",
+      "leaf1.png",
       "false",
       "false"
     ],
@@ -53,18 +41,6 @@
       "teacher.png",
       "false",
       "true"
-    ],
-    [
-      "rocket",
-      "1",
-      "Description",
-      "teacher",
-      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
-      "t,e,a,c,h,r",
-      "teacher.mp3",
-      "teacher.png",
-      "true",
-      "false"
     ],
     [
       "quizliteracy",
