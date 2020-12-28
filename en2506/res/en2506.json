@@ -10,15 +10,6 @@
       "We_swam_yesterday.mp3"
     ],
     [
-      "createsentence",
-      "1",
-      "Description",
-      "We/swam/yesterday",
-      "sang",
-      "Weswamyesterday.jpg",
-      "We_swam_yesterday.mp3"
-    ],
-    [
       "fillblank",
       "1",
       "Description",
