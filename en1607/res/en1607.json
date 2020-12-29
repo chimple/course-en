@@ -79,18 +79,6 @@
       "false"
     ],
     [
-      "rocket",
-      "1",
-      "Description",
-      "white",
-      "wh,ite",
-      "wh,ite",
-      "white.mp3",
-      "white.png",
-      "false",
-      "false"
-    ],
-    [
       "speakingpet",
       "1",
       "Description",
@@ -132,8 +120,8 @@
       "Description",
       "soundonly_image",
       "white.png",
-      "clock.png",
-      "hands.png",
+      "white.png",
+      "purple.png",
       "black.png",
       "",
       "",
