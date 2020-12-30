@@ -106,7 +106,8 @@
       "ase",
       "ain",
       "",
-      "t___"
+      "t___",
+      "tank.mp3"
     ],
     [
       "quizliteracy",
@@ -118,7 +119,8 @@
       "ave",
       "ail",
       "",
-      "r___"
+      "r___",
+      "rail.mp3"
     ],
     [
       "quizliteracy",
@@ -130,7 +132,8 @@
       "ail",
       "org",
       "",
-      "m___"
+      "m___",
+      "mail.mp3"
     ]
   ]
 }
