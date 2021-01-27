@@ -61,12 +61,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "soundonly_word",
       "n",
       "n",
       "h",
       "f",
-      "neck.png"
+      "",
+      "",
+      "eng_n.m4a"
     ]
   ]
 }
