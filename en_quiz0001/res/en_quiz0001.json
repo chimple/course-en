@@ -113,6 +113,17 @@
       "bus",
       "bat",
       "bug.png"
+    ],
+    [
+      "quizliteracy",
+      "1",
+      "Description",
+      "image_word",
+      "tree",
+      "house",
+      "car",
+      "tree",
+      "tree.png"
     ]
   ]
 }
