@@ -5,16 +5,20 @@
   "bundleName": "",
   "priority": 1,
   "compressionType": {
-    "android": "merge_all_json"
+    "android": "merge_all_json",
+    "web-mobile": "merge_all_json"
   },
   "optimizeHotUpdate": {
-    "android": false
+    "android": false,
+    "web-mobile": false
   },
   "inlineSpriteFrames": {
-    "android": false
+    "android": false,
+    "web-mobile": false
   },
   "isRemoteBundle": {
-    "android": true
+    "android": true,
+    "web-mobile": false
   },
   "subMetas": {}
 }
