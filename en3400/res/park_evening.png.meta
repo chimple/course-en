@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f7557928-426c-4fe5-bf00-7f621a9b2d6d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 574,
+  "platformSettings": {},
+  "subMetas": {
+    "park_evening": {
+      "ver": "1.0.4",
+      "uuid": "e3abebf4-70ad-498a-a3e3-3f0cbb5ef82a",
+      "rawTextureUuid": "f7557928-426c-4fe5-bf00-7f621a9b2d6d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 574,
+      "rawWidth": 1024,
+      "rawHeight": 574,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
