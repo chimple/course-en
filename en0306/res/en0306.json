@@ -1,6 +1,16 @@
 {
   "rows": [
     [
+      "balloonpop",
+      "1",
+      "Description",
+      "2",
+      "z",
+      "5",
+      "z,y,x",
+      "z.mp3"
+    ],
+    [
       "writeletter",
       "1",
       "Description",
@@ -15,12 +25,12 @@
       "zebra",
       "zebra.png",
       "zebra.m4a",
-      "zipper",
-      "zipper.png",
-      "zipper.m4a",
-      "zigzag",
-      "zigzag.png",
-      "zigzag.m4a"
+      "zip",
+      "zip.png",
+      "zip.mp3",
+      "zero",
+      "zero.png",
+      "zero.mp3"
     ],
     [
       "quizliteracy",
