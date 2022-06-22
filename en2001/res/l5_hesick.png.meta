@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5de34529-461d-4df9-8b9a-095cb8ff0dfb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l5_hesick": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0353367b-5efd-4ee9-8ec9-7153a5be2ea9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5de34529-461d-4df9-8b9a-095cb8ff0dfb",
       "trimType": "auto",
       "trimThreshold": 1,

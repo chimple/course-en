@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a9468f95-755b-4af4-8a9a-4fbfe62ceb42",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l12_girlcannotwalk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7395a369-d20e-48b4-b35b-325b6c39e2d9",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a9468f95-755b-4af4-8a9a-4fbfe62ceb42",
       "trimType": "auto",
       "trimThreshold": 1,

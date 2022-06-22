@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d299beb2-b048-4fd3-afa5-9409b2df3707",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Quarter_pizza": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e32ef868-fc34-4c74-b858-01fc85b8a5ad",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d299beb2-b048-4fd3-afa5-9409b2df3707",
       "trimType": "auto",
       "trimThreshold": 1,

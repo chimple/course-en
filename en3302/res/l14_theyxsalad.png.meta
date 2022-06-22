@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f3e435de-cc77-4607-8e3b-a3651495f300",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_theyxsalad": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "073231ad-a774-486e-9fc4-085b014aa1a5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f3e435de-cc77-4607-8e3b-a3651495f300",
       "trimType": "auto",
       "trimThreshold": 1,

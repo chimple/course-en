@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "26d2c999-4e26-4d91-98d6-0e05ebd3060d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l13_schoolnextpark": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cf5f7ad8-159a-46ed-9e40-ae8190b4f240",
+      "importer": "sprite-frame",
       "rawTextureUuid": "26d2c999-4e26-4d91-98d6-0e05ebd3060d",
       "trimType": "auto",
       "trimThreshold": 1,

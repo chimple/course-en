@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ffd5c63b-3bae-4115-8869-2e9990462313",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_theyhaveoranges": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2a625894-e3a8-4fe8-a6ea-bddc0c0bdb67",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ffd5c63b-3bae-4115-8869-2e9990462313",
       "trimType": "auto",
       "trimThreshold": 1,

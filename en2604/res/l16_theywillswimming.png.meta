@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f79d15c8-a263-4023-a156-be8883814752",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_theywillswimming": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7a036296-0537-40fe-b5b8-43656147095c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f79d15c8-a263-4023-a156-be8883814752",
       "trimType": "auto",
       "trimThreshold": 1,

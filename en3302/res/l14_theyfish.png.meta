@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b012386b-5631-475c-80b2-3e5ea36d5bb7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_theyfish": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "24af6589-777d-4b21-a335-9f0ab776c041",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b012386b-5631-475c-80b2-3e5ea36d5bb7",
       "trimType": "auto",
       "trimThreshold": 1,

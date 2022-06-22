@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9da736e4-1824-4b1d-b251-61eb6e8ed41b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle9_crocodile_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "1927dbe0-7561-4344-b686-194589acff05",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9da736e4-1824-4b1d-b251-61eb6e8ed41b",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "de7c372b-f523-468e-b33c-58ddd85c194f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_theyhavemangoes": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "39d351df-32d4-414c-a4df-e1ab0d1e8278",
+      "importer": "sprite-frame",
       "rawTextureUuid": "de7c372b-f523-468e-b33c-58ddd85c194f",
       "trimType": "auto",
       "trimThreshold": 1,

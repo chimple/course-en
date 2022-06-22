@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "050cbcbb-4917-4ae5-89ec-f669d96b1052",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_girlwantsdoctor": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fe913a96-7d63-487f-84fd-35b8d1b096e7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "050cbcbb-4917-4ae5-89ec-f669d96b1052",
       "trimType": "auto",
       "trimThreshold": 1,

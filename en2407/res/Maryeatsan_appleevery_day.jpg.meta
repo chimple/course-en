@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "be296421-89de-4cda-b3dc-ccd47ae59e5b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Maryeatsan_appleevery_day": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f5156982-eed7-411a-a891-e005d5f7bdf5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "be296421-89de-4cda-b3dc-ccd47ae59e5b",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "dd22ed50-42bc-4464-b2d8-98f0224ba136",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_shexlikedog": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "68d47f50-2321-4e76-90a5-125ee9be08b6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "dd22ed50-42bc-4464-b2d8-98f0224ba136",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "55cc7aff-49f0-4ad7-aaee-86a3638c0d10",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_Post_Officemailsletters": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f2fe8a81-607c-4a53-9fba-47284a87792f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "55cc7aff-49f0-4ad7-aaee-86a3638c0d10",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2cbe20bb-e62d-4aac-ae59-2005c3edef1c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_zebrascarrots": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6c2932fb-7ab6-4ccc-b6c2-33114a0c9cbb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2cbe20bb-e62d-4aac-ae59-2005c3edef1c",
       "trimType": "auto",
       "trimThreshold": 1,

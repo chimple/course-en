@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1e95cf2c-39b9-450b-a6ba-3d9399f4ba6c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Mirasingsa_song": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3139a20d-c4c6-4b7c-a0b3-b694eed176e1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1e95cf2c-39b9-450b-a6ba-3d9399f4ba6c",
       "trimType": "auto",
       "trimThreshold": 1,

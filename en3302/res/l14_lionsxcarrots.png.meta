@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2e789c31-f3a0-4b65-b7df-db35cb6698e9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_lionsxcarrots": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4152e482-d699-4f84-bf20-97871694e79a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2e789c31-f3a0-4b65-b7df-db35cb6698e9",
       "trimType": "auto",
       "trimThreshold": 1,

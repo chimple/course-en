@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "24f28026-ff27-420c-ad1a-d4f49c71b709",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "I_eat_(girl)": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "57687f6c-62d1-4d96-a15e-eb3322a53405",
+      "importer": "sprite-frame",
       "rawTextureUuid": "24f28026-ff27-420c-ad1a-d4f49c71b709",
       "trimType": "auto",
       "trimThreshold": 1,

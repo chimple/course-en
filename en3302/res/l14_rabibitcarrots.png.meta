@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1318d56a-9a89-40a7-ac1c-21704d43e5b5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_rabibitcarrots": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "917a541b-62a4-42bc-9ce7-522a74d0d3bf",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1318d56a-9a89-40a7-ac1c-21704d43e5b5",
       "trimType": "auto",
       "trimThreshold": 1,

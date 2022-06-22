@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9fe5407b-e67f-4c42-88ed-8c173bfbf26a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l12_boycannotwalk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "dcbb2223-493e-4006-9876-95e65374ad7d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9fe5407b-e67f-4c42-88ed-8c173bfbf26a",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6503b334-5a15-450f-b43a-610c309be4de",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Paulscreamsloudly": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d9ce6448-ac44-4d1b-92f4-24f8475a1573",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6503b334-5a15-450f-b43a-610c309be4de",
       "trimType": "auto",
       "trimThreshold": 1,

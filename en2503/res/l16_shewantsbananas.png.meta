@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1395850a-2754-4f6c-b649-721dee4b5dd1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_shewantsbananas": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "60725e8d-3a0b-455e-a046-ac5933879e61",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1395850a-2754-4f6c-b649-721dee4b5dd1",
       "trimType": "auto",
       "trimThreshold": 1,

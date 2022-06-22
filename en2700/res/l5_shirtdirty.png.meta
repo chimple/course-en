@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "de97ba3d-0d10-4027-bd53-fef661663687",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l5_shirtdirty": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6aa3c2c3-b638-4013-ba29-87fed44a90e5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "de97ba3d-0d10-4027-bd53-fef661663687",
       "trimType": "auto",
       "trimThreshold": 1,

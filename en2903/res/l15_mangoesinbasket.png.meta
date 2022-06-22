@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cdf162da-4181-4b82-b381-34bb3d554607",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l15_mangoesinbasket": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7c1aad1a-3aed-476c-9340-d7e0ef7eef79",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cdf162da-4181-4b82-b381-34bb3d554607",
       "trimType": "auto",
       "trimThreshold": 1,

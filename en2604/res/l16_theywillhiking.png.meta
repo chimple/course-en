@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a24d6c4f-9106-418b-8c8d-1617350f3356",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_theywillhiking": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d210d924-9e1e-46b1-8d5e-fbf8bc5f514e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a24d6c4f-9106-418b-8c8d-1617350f3356",
       "trimType": "auto",
       "trimThreshold": 1,

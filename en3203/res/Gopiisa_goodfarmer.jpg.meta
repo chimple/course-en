@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9c3afcf3-df8a-4f3e-ae62-a06814aece44",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Gopiisa_goodfarmer": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e3b45731-f025-44e8-8e18-34167b1a0740",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9c3afcf3-df8a-4f3e-ae62-a06814aece44",
       "trimType": "auto",
       "trimThreshold": 1,

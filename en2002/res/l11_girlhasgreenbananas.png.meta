@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "656f098c-bf5e-4832-9e74-6a5e1a71dc91",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_girlhasgreenbananas": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "560de2a7-9a0a-43af-89c2-7189b4c90a26",
+      "importer": "sprite-frame",
       "rawTextureUuid": "656f098c-bf5e-4832-9e74-6a5e1a71dc91",
       "trimType": "auto",
       "trimThreshold": 1,

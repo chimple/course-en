@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "af660de2-8502-4785-9e33-0577eb91f0f0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_plantisgreen": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "30ac0169-b715-45b0-a027-d5885232bb70",
+      "importer": "sprite-frame",
       "rawTextureUuid": "af660de2-8502-4785-9e33-0577eb91f0f0",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "458da599-a642-4e12-a190-1bccfc9859ba",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_truckcarriesthings": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b6c774c8-2889-4acd-a15d-ea1e3df17752",
+      "importer": "sprite-frame",
       "rawTextureUuid": "458da599-a642-4e12-a190-1bccfc9859ba",
       "trimType": "auto",
       "trimThreshold": 1,

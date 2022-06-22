@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "46f55a56-9236-4a2d-b132-75d072debaae",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l1_orangeshirt": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d5021b3e-a774-42b0-ae4a-2fe64405d1e2",
+      "importer": "sprite-frame",
       "rawTextureUuid": "46f55a56-9236-4a2d-b132-75d072debaae",
       "trimType": "auto",
       "trimThreshold": 1,

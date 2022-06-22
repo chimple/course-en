@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "85e9b5ce-6e95-4457-931b-1f009f8c2e16",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "park_evening": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "22f4a291-6123-4d4d-8d82-a43daff0e8d6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "85e9b5ce-6e95-4457-931b-1f009f8c2e16",
       "trimType": "auto",
       "trimThreshold": 1,

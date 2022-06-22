@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "59094903-6f1d-49c1-bd0c-b8f09f7b9589",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Nitaisa_fastswimmer": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c1f527a0-8514-4a44-84f0-2e62ad529796",
+      "importer": "sprite-frame",
       "rawTextureUuid": "59094903-6f1d-49c1-bd0c-b8f09f7b9589",
       "trimType": "auto",
       "trimThreshold": 1,

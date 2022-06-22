@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "556baa0d-f265-4d20-89be-19614df91882",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l13_schoolfrontpark": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fe0a3bf8-f9e7-4c76-bce9-1396f8d1d185",
+      "importer": "sprite-frame",
       "rawTextureUuid": "556baa0d-f265-4d20-89be-19614df91882",
       "trimType": "auto",
       "trimThreshold": 1,

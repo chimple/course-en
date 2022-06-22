@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "cad48da1-7c71-433b-81fa-37ca60cf88de",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_hedrinkmilk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "37216fba-29b3-4565-9a9d-1c72fad56b75",
+      "importer": "sprite-frame",
       "rawTextureUuid": "cad48da1-7c71-433b-81fa-37ca60cf88de",
       "trimType": "auto",
       "trimThreshold": 1,

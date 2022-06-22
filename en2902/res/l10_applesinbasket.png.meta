@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f356e58b-178b-4aa8-9c5d-ed621bd4cf7d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l10_applesinbasket": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6fc9e533-2173-4d20-90a0-2e654b07c49a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f356e58b-178b-4aa8-9c5d-ed621bd4cf7d",
       "trimType": "auto",
       "trimThreshold": 1,

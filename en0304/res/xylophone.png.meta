@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1e662c43-9cf5-49a0-a78e-c2b70705aa6f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "xylophone": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "27a0cea3-584c-432f-85fc-de0e4c3a9b74",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1e662c43-9cf5-49a0-a78e-c2b70705aa6f",
       "trimType": "auto",
       "trimThreshold": 1,

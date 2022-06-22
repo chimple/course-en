@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "94fd0120-8d2a-418d-a31c-56bad3ee1da4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l6_sheteacher": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d7fab0b1-3285-4d20-a625-22d0b03b9422",
+      "importer": "sprite-frame",
       "rawTextureUuid": "94fd0120-8d2a-418d-a31c-56bad3ee1da4",
       "trimType": "auto",
       "trimThreshold": 1,

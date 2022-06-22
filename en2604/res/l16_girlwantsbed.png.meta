@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c0ad7451-de4f-4289-806b-575b81d5b1ad",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_girlwantsbed": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "151de720-5257-4245-a0b1-bb95770b9cc6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c0ad7451-de4f-4289-806b-575b81d5b1ad",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "80a2b65c-e65d-4998-a28f-dde3ab8466c0",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Weswamyesterday": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8188a34d-8fc1-437e-9bb3-21e40a38b27d",
+      "importer": "sprite-frame",
       "rawTextureUuid": "80a2b65c-e65d-4998-a28f-dde3ab8466c0",
       "trimType": "auto",
       "trimThreshold": 1,

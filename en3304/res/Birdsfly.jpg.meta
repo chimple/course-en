@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "32b68a96-28bb-4f25-b816-a19ecc198fed",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Birdsfly": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "965e16f8-b184-451a-8f31-3ec51b23cb82",
+      "importer": "sprite-frame",
       "rawTextureUuid": "32b68a96-28bb-4f25-b816-a19ecc198fed",
       "trimType": "auto",
       "trimThreshold": 1,

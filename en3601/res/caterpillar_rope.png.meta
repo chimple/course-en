@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "936fbd58-9ca7-4a83-ba0c-f372d8efa437",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "caterpillar_rope": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "98af3d00-2427-4b8c-8001-c7573e522222",
+      "importer": "sprite-frame",
       "rawTextureUuid": "936fbd58-9ca7-4a83-ba0c-f372d8efa437",
       "trimType": "auto",
       "trimThreshold": 1,

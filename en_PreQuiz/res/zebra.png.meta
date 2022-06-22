@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3d9b02d6-2253-45ac-9dff-84d5fafee7b1",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "zebra": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6846bf28-3ece-46e9-906f-bee8a9a1f8e0",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3d9b02d6-2253-45ac-9dff-84d5fafee7b1",
       "trimType": "auto",
       "trimThreshold": 1,

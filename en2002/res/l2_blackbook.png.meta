@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "84be34fe-99f2-4fc2-bfb3-f107ee68f09f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_blackbook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3e60e2c3-6461-4f61-8756-d40e57146ba6",
+      "importer": "sprite-frame",
       "rawTextureUuid": "84be34fe-99f2-4fc2-bfb3-f107ee68f09f",
       "trimType": "auto",
       "trimThreshold": 1,

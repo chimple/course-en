@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "278f1d31-bc49-406a-91dc-18e0b41da514",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Hinaisa_helpfulfriend": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "bfd30ee4-4bdf-46ff-a0c0-2a1e76abe414",
+      "importer": "sprite-frame",
       "rawTextureUuid": "278f1d31-bc49-406a-91dc-18e0b41da514",
       "trimType": "auto",
       "trimThreshold": 1,

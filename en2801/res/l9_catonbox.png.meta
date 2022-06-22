@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "74f59022-6dec-4e71-8e39-ba6972a80c92",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l9_catonbox": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "563f6155-8d63-44de-9fcf-80fba42ed811",
+      "importer": "sprite-frame",
       "rawTextureUuid": "74f59022-6dec-4e71-8e39-ba6972a80c92",
       "trimType": "auto",
       "trimThreshold": 1,

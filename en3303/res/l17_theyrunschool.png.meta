@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1162ff35-18c3-42b2-95f5-82fd97be0ee7",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_theyrunschool": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "893b9c80-b2bb-4aa5-9150-f2cf05c84731",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1162ff35-18c3-42b2-95f5-82fd97be0ee7",
       "trimType": "auto",
       "trimThreshold": 1,

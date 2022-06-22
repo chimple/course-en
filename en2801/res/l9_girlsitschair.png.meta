@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9117519a-9367-4dc4-9ec9-74c8fb5accd3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l9_girlsitschair": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "b59e1b92-0eee-416c-9dd8-f9740fa3b677",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9117519a-9367-4dc4-9ec9-74c8fb5accd3",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "01bed74d-64aa-47ff-91fd-4248de62443d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l5_shehappy": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c60ac0a6-aac7-4f0f-932d-41fb9ca1613a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "01bed74d-64aa-47ff-91fd-4248de62443d",
       "trimType": "auto",
       "trimThreshold": 1,

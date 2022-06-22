@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9e6a2b6c-597b-4a9f-92cb-4795815d18c8",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l4_2boys3chairs": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ac925c54-c0de-40ef-be93-2f13ac136cd4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9e6a2b6c-597b-4a9f-92cb-4795815d18c8",
       "trimType": "auto",
       "trimThreshold": 1,

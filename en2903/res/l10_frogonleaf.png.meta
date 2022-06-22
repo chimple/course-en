@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "97d3ebfd-a62a-4585-8344-69c8862f503f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l10_frogonleaf": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "fe2f6ef6-8b89-425b-a9a3-fbe9bd324923",
+      "importer": "sprite-frame",
       "rawTextureUuid": "97d3ebfd-a62a-4585-8344-69c8862f503f",
       "trimType": "auto",
       "trimThreshold": 1,
