@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "bc918d1d-076a-44bf-8b7a-0accb64ecf32",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_boyreadsbook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6660950d-020d-402c-849f-5ed4110b615f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "bc918d1d-076a-44bf-8b7a-0accb64ecf32",
       "trimType": "auto",
       "trimThreshold": 1,

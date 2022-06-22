@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "20f88c17-60d9-4369-af6c-0748399eae74",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l9_shekitchen": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "c2475e0f-0e46-495e-995e-facf3f7d1819",
+      "importer": "sprite-frame",
       "rawTextureUuid": "20f88c17-60d9-4369-af6c-0748399eae74",
       "trimType": "auto",
       "trimThreshold": 1,

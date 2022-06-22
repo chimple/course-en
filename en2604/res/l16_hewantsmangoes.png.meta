@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "bbd38af4-038c-43a8-b189-85478dc96385",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l16_hewantsmangoes": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "05dd25be-4be6-4974-96d6-7294d435b1ae",
+      "importer": "sprite-frame",
       "rawTextureUuid": "bbd38af4-038c-43a8-b189-85478dc96385",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5af234c6-14a6-40cf-988e-d38b7d567731",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l8_heeatingdonut": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "43501d0e-46c4-445c-9085-b0c10dccdf4a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5af234c6-14a6-40cf-988e-d38b7d567731",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9b6ead7f-98a6-41cc-bdf8-fb852cf39a14",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l6_hedoctor": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "92f279e8-da0d-40ab-b148-41518a016571",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9b6ead7f-98a6-41cc-bdf8-fb852cf39a14",
       "trimType": "auto",
       "trimThreshold": 1,

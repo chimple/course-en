@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "5b60c83c-44cd-4df9-97cc-d50fbfe08593",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "aartiisa_girl": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "765a7db4-bcad-488b-a9e7-a4aecafa1485",
+      "importer": "sprite-frame",
       "rawTextureUuid": "5b60c83c-44cd-4df9-97cc-d50fbfe08593",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b26e53ee-7be3-4982-82f3-08d8a1529acb",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l9_teachersitschair": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0fb1920c-1fa4-4e55-ba1a-eca4796e733a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b26e53ee-7be3-4982-82f3-08d8a1529acb",
       "trimType": "auto",
       "trimThreshold": 1,

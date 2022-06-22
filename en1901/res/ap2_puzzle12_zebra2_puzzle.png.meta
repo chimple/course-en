@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9597bc02-b410-4579-b295-cec89c78924d",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap2_puzzle12_zebra2_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "7c15d7a3-6498-4582-8fa8-845c03e6cbed",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9597bc02-b410-4579-b295-cec89c78924d",
       "trimType": "auto",
       "trimThreshold": 1,

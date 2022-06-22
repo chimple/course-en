@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b1ec559c-add6-411d-9f7b-a34e49617ea6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_pondhasmanyfrogs": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "20d6c369-f4b3-4e7b-b50b-25bca841700b",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b1ec559c-add6-411d-9f7b-a34e49617ea6",
       "trimType": "auto",
       "trimThreshold": 1,

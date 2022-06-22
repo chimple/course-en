@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3c5c1c28-d80a-4b12-84de-f93821c7b618",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Jayeats": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f2e59fb1-4e51-49b2-a08b-7b4a03416462",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3c5c1c28-d80a-4b12-84de-f93821c7b618",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "771569a3-dd57-4168-a208-84c93b159ae2",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap_puzzle8_hyena3_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "a3b35b49-f274-48ce-aff7-e57575669a7a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "771569a3-dd57-4168-a208-84c93b159ae2",
       "trimType": "auto",
       "trimThreshold": 1,

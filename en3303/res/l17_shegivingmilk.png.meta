@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "61b7e49a-50f0-4e3f-9e71-a22a7b5dbd78",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_shegivingmilk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "86d919ea-8c59-4db1-8c10-bbc25173370f",
+      "importer": "sprite-frame",
       "rawTextureUuid": "61b7e49a-50f0-4e3f-9e71-a22a7b5dbd78",
       "trimType": "auto",
       "trimThreshold": 1,

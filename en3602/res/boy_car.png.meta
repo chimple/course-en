@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "8e90eb00-9ee5-4201-800e-a195e9390bb5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "boy_car": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "351ece75-f1a6-4074-add6-6663aed8fcc1",
+      "importer": "sprite-frame",
       "rawTextureUuid": "8e90eb00-9ee5-4201-800e-a195e9390bb5",
       "trimType": "auto",
       "trimThreshold": 1,

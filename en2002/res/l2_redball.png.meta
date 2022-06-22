@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "e52884fe-c2d4-4b29-af5b-faea48a26c69",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_redball": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "4ea83514-827e-4739-94d3-2d7cf7c4c02a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "e52884fe-c2d4-4b29-af5b-faea48a26c69",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a50e696b-5ffe-44a2-9aaf-f556897bd3cd",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "ap2_puzzle2_lizard_puzzle": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "30c66f69-595c-42af-9363-e397675ad6af",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a50e696b-5ffe-44a2-9aaf-f556897bd3cd",
       "trimType": "auto",
       "trimThreshold": 1,

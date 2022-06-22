@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6bc138a2-9952-4a75-bd96-ee750d7a388e",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l6_hecook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "2c46ecd5-b833-4bf6-9156-6dd8f955e366",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6bc138a2-9952-4a75-bd96-ee750d7a388e",
       "trimType": "auto",
       "trimThreshold": 1,

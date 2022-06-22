@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1d1673c1-3409-41a6-aa0b-aeb68f67c481",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Komalreadsa_book": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ee3867a3-d7d2-4cc7-9c9a-acb50e925beb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1d1673c1-3409-41a6-aa0b-aeb68f67c481",
       "trimType": "auto",
       "trimThreshold": 1,

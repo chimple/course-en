@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ce838a2b-15fd-4a6c-a102-5c22569af4d6",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Dogsbarkloudly": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "cff24dc7-8939-46d0-b269-afd7cd19744e",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ce838a2b-15fd-4a6c-a102-5c22569af4d6",
       "trimType": "auto",
       "trimThreshold": 1,

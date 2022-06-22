@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "1a3b5954-356e-4f5b-8d68-30110bdc0bd9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l8_shesleeping": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "624b5dc1-9df3-4037-b386-92d956f531da",
+      "importer": "sprite-frame",
       "rawTextureUuid": "1a3b5954-356e-4f5b-8d68-30110bdc0bd9",
       "trimType": "auto",
       "trimThreshold": 1,

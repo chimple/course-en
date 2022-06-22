@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "0ab70f75-9996-4aef-8027-422238d35c25",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l7_hecandraw": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "d4665fed-ca56-44a9-89bb-610fd8b0a58c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "0ab70f75-9996-4aef-8027-422238d35c25",
       "trimType": "auto",
       "trimThreshold": 1,

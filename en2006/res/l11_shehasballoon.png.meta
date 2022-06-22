@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "2921909b-e8eb-4467-859f-2b7c91a4d16c",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_shehasballoon": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "70f707c3-014e-434b-a8c2-54f013c14cad",
+      "importer": "sprite-frame",
       "rawTextureUuid": "2921909b-e8eb-4467-859f-2b7c91a4d16c",
       "trimType": "auto",
       "trimThreshold": 1,

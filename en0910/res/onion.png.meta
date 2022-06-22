@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f161377d-b325-438d-8b1d-818cfea2c8ed",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "onion": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f4549274-d769-436e-a85d-3657667e98df",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f161377d-b325-438d-8b1d-818cfea2c8ed",
       "trimType": "auto",
       "trimThreshold": 1,

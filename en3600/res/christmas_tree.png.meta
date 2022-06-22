@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "24d3739d-f4b0-4b41-a3fc-df04d40a3b4f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "christmas_tree": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "13b146a7-3f07-4dcf-a867-10dbcc6a6a78",
+      "importer": "sprite-frame",
       "rawTextureUuid": "24d3739d-f4b0-4b41-a3fc-df04d40a3b4f",
       "trimType": "auto",
       "trimThreshold": 1,

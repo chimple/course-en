@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "c9e14938-672f-4e21-8017-59a8ec66be5f",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_theyplayfootball": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "01d57ab2-0852-41cf-97bc-af4733edad0c",
+      "importer": "sprite-frame",
       "rawTextureUuid": "c9e14938-672f-4e21-8017-59a8ec66be5f",
       "trimType": "auto",
       "trimThreshold": 1,

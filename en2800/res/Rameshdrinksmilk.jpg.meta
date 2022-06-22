@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a766c866-3bca-4db3-8265-fdb39d3098c4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Rameshdrinksmilk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "ac4dddbd-c20d-4582-8ab5-8a7bf67878b8",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a766c866-3bca-4db3-8265-fdb39d3098c4",
       "trimType": "auto",
       "trimThreshold": 1,

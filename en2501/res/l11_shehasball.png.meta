@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "3da921cb-090b-44b0-83f7-e16eb0188c29",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_shehasball": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "e61fbab1-2bd2-45ab-9ff8-70a7e47f07ba",
+      "importer": "sprite-frame",
       "rawTextureUuid": "3da921cb-090b-44b0-83f7-e16eb0188c29",
       "trimType": "auto",
       "trimThreshold": 1,

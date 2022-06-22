@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "6c485362-256c-4d83-8639-f423b7e4d39b",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l11_shelikespinkhat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "0d920e16-8054-46f8-aece-e78272f2eba4",
+      "importer": "sprite-frame",
       "rawTextureUuid": "6c485362-256c-4d83-8639-f423b7e4d39b",
       "trimType": "auto",
       "trimThreshold": 1,

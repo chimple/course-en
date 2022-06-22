@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "a35f9247-2352-4521-a614-d9c46be48514",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_girlxreadbook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "9c1f5d11-b06f-476e-a913-99bd43f4aa15",
+      "importer": "sprite-frame",
       "rawTextureUuid": "a35f9247-2352-4521-a614-d9c46be48514",
       "trimType": "auto",
       "trimThreshold": 1,

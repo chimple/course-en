@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "db2ace1b-0993-4eb0-bbc5-f16fa54dbd56",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l14_womanhasgoat": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6cdc5fba-ae8f-46a3-956c-b90a113d9623",
+      "importer": "sprite-frame",
       "rawTextureUuid": "db2ace1b-0993-4eb0-bbc5-f16fa54dbd56",
       "trimType": "auto",
       "trimThreshold": 1,

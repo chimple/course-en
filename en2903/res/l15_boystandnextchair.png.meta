@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "709bc89d-d846-4cf2-bf49-bdafcd2259ac",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l15_boystandnextchair": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "64209ef3-84c7-424e-ab4f-723f911fea37",
+      "importer": "sprite-frame",
       "rawTextureUuid": "709bc89d-d846-4cf2-bf49-bdafcd2259ac",
       "trimType": "auto",
       "trimThreshold": 1,

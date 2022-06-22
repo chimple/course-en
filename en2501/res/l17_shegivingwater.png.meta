@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9ee34d9f-10bb-4ee5-a161-8c82d15a00ce",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_shegivingwater": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f92457be-a6fa-4b53-ad2f-280445611af3",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9ee34d9f-10bb-4ee5-a161-8c82d15a00ce",
       "trimType": "auto",
       "trimThreshold": 1,

@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "d92d7307-0fac-42e0-a45f-c9ee3bc335aa",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "mug": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "15de903a-4828-4458-9a35-223a07b77dbb",
+      "importer": "sprite-frame",
       "rawTextureUuid": "d92d7307-0fac-42e0-a45f-c9ee3bc335aa",
       "trimType": "auto",
       "trimThreshold": 1,

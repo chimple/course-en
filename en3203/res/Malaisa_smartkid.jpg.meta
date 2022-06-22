@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4f92b341-f30f-4c3e-a1df-6327c1a56986",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Malaisa_smartkid": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "5353ab41-b6e1-4dd5-96ef-dead770b23cc",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4f92b341-f30f-4c3e-a1df-6327c1a56986",
       "trimType": "auto",
       "trimThreshold": 1,

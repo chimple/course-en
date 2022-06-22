@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "4dfbefa6-4c5b-4264-a93f-83df8b8b4846",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "The_plantgrows": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3867344c-aeba-44c6-b850-7c7594dd73a7",
+      "importer": "sprite-frame",
       "rawTextureUuid": "4dfbefa6-4c5b-4264-a93f-83df8b8b4846",
       "trimType": "auto",
       "trimThreshold": 1,

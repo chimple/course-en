@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9afa1668-19a5-4e62-a709-9a78a7b77b1a",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_pinkballoons": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3adc9d36-341c-4325-8915-c0fd00fef939",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9afa1668-19a5-4e62-a709-9a78a7b77b1a",
       "trimType": "auto",
       "trimThreshold": 1,

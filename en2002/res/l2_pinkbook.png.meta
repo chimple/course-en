@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9ab869cc-f882-458d-be2c-a33b584932c4",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l2_pinkbook": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "f5cd3b4f-b609-48a3-8749-5a31bfea00b5",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9ab869cc-f882-458d-be2c-a33b584932c4",
       "trimType": "auto",
       "trimThreshold": 1,

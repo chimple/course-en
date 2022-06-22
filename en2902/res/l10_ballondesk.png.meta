@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "9f7dd943-f56c-44d4-b457-58f3ce9927f9",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l10_ballondesk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "aa945955-2843-44c4-99ed-84c8c5f3e975",
+      "importer": "sprite-frame",
       "rawTextureUuid": "9f7dd943-f56c-44d4-b457-58f3ce9927f9",
       "trimType": "auto",
       "trimThreshold": 1,

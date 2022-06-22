@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "24b5a252-0197-4d38-b6b4-5fc546e20ade",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "l17_shehelpdadcarry": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "6c391232-5eeb-4c6d-84f1-5b745946a88a",
+      "importer": "sprite-frame",
       "rawTextureUuid": "24b5a252-0197-4d38-b6b4-5fc546e20ade",
       "trimType": "auto",
       "trimThreshold": 1,

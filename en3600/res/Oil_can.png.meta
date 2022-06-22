@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "ad633926-c89a-43c5-bcc0-e5d09b3fa4f5",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Oil_can": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "eacceab8-7f5d-429b-8288-35bcb1b2bdfe",
+      "importer": "sprite-frame",
       "rawTextureUuid": "ad633926-c89a-43c5-bcc0-e5d09b3fa4f5",
       "trimType": "auto",
       "trimThreshold": 1,

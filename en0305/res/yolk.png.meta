@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "10a1b745-272c-4da0-975b-10156aa823d3",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "yolk": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "89624358-7507-41be-990f-49822a76e5cd",
+      "importer": "sprite-frame",
       "rawTextureUuid": "10a1b745-272c-4da0-975b-10156aa823d3",
       "trimType": "auto",
       "trimThreshold": 1,

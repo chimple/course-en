@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "b1de94ae-45a8-4f11-ae8b-1d246c79b135",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "Johnisa_boy": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "8136d678-f26a-4f5e-a82d-5f09b35a2a26",
+      "importer": "sprite-frame",
       "rawTextureUuid": "b1de94ae-45a8-4f11-ae8b-1d246c79b135",
       "trimType": "auto",
       "trimThreshold": 1,
