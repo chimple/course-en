@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "He[ ]plays[.]",
+      "He plays[.]",
       "He_plays.mp3",
       "n",
       "locked"
@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "She[ ]walks[.]",
+      "She walks[.]",
       "She_walks.mp3",
       "n",
       "locked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "It[ ]grows[.]",
+      "It grows[.]",
       "It_grows.mp3",
       "n",
       "locked"
@@ -31,7 +31,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "My[ ]sister[ ]is[ ]short[.]",
+      "My sister is short[.]",
       "My_sister_is_short.mp3",
       "n",
       "locked"
@@ -40,7 +40,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "He[ ]has[ ]three[ ]brothers[.]",
+      "He has three brothers[.]",
       "He_has_three_brothers.mp3",
       "n",
       "locked"
@@ -49,8 +49,8 @@
       "jumpsentence",
       "1",
       "Description",
-      "My[ ]sister[ ]is[ ]short[.]",
-      "My_sister_is_short.mp3",
+      "A pink dress.",
+      "A_pink_dress.mp3",
       "n",
       "locked"
     ],
@@ -58,7 +58,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "She[ ]wants[ ]to[ ]@be[ ]a[ ]nurse[.]",
+      "She wants to be a nurse[.]",
       "She_wants_to_be_a_nurse.mp3",
       "n",
       "locked"

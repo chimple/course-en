@@ -26,7 +26,7 @@
       "bl,ouse",
       "bl,ouse",
       "blouse.mp3",
-      "blouse.png",
+      "blouse.jpg",
       "false",
       "false"
     ],
@@ -188,10 +188,10 @@
       "1",
       "Description",
       "soundonly_image",
-      "shoulders.png",
+      "shoulder.png",
       "feet.png",
       "hands.png",
-      "shoulders.png",
+      "shoulder.png",
       "",
       "",
       "shoulders.m4a"

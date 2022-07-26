@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "f25db253-f082-4f2b-89ee-c91f3b777ff8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 595,
+  "platformSettings": {},
+  "subMetas": {
+    "Salma_and_Rita_are_students": {
+      "ver": "1.0.6",
+      "uuid": "45e3ba38-a304-4770-a5bd-f05209b8c28b",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "f25db253-f082-4f2b-89ee-c91f3b777ff8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 595,
+      "rawWidth": 800,
+      "rawHeight": 595,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

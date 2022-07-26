@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[We jump.]",
+      "[We] [jump.]",
       "We_jump.mp3",
       "y",
       "unlocked"
@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[She runs.]",
+      "[She] [runs.]",
       "She_runs.mp3",
       "y",
       "unlocked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[He reads.]",
+      "[He] [reads.]",
       "He_reads.mp3",
       "y",
       "unlocked"
@@ -60,7 +60,7 @@
       "Description",
       "Rita/swims",
       "",
-      "Weswamyesterday.jpg",
+      "Rita_swims.jpg",
       "Rita_swims.mp3"
     ],
     [
