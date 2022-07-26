@@ -8,7 +8,7 @@
       "basket",
       "basket.png",
       "pillow.png",
-      "basket.m4a",
+      "basket.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -32,13 +32,13 @@
       "s",
       "sky",
       "sky.png",
-      "sky.m4a",
+      "sky.mp3",
       "soap",
       "soap.png",
-      "soap.m4a",
+      "soap.mp3",
       "snake",
       "snake.png",
-      "snake.m4a"
+      "snake.mp3"
     ],
     [
       "quizliteracy",
@@ -86,7 +86,7 @@
       "sky",
       "",
       "",
-      "sky.m4a"
+      "sky.mp3"
     ]
   ]
 }

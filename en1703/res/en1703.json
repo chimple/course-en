@@ -8,7 +8,7 @@
       "train",
       "train.png",
       "color.png",
-      "train.m4a",
+      "train.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "tree",
       "tree.png",
       "song.png",
-      "tree.m4a",
+      "tree.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -135,7 +135,7 @@
       "truck",
       "",
       "",
-      "train.m4a"
+      "train.mp3"
     ],
     [
       "quizliteracy",

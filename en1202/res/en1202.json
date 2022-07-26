@@ -25,8 +25,8 @@
       "speakingpet",
       "1",
       "Description",
-      "l_sound.mp3",
-      "m_sound.mp3",
+      "l.mp3",
+      "m.mp3",
       "leg",
       "leg.mp3",
       "A",
@@ -89,7 +89,7 @@
       "hi",
       "",
       "s___",
-      "sea.m4a"
+      "sea.mp3"
     ],
     [
       "quizliteracy",

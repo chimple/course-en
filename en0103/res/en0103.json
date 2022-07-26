@@ -27,7 +27,7 @@
       "jam.mp3",
       "jar",
       "jar.png",
-      "jar.m4a",
+      "jar.mp3",
       "jug",
       "jug.png",
       "jug.mp3"
@@ -43,7 +43,7 @@
       "z",
       "",
       "",
-      "j_sound.m4a"
+      "j.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "j",
       "",
       "",
-      "j_sound.m4a"
+      "j.mp3"
     ]
   ]
 }

@@ -175,13 +175,13 @@
       "1",
       "Description",
       "image_sentence",
-      "A black bear.",
-      "A black bear.",
+      "A brown bear.",
+      "A brown bear.",
       "A black boot.",
       "A black dog.",
-      "l2_blackbear.png",
+      "l2_brownbear.png",
       "",
-      "ablackbear.m4a"
+      "A_brown_bear.mp3"
     ]
   ]
 }

@@ -8,7 +8,7 @@
       "baby",
       "baby.png",
       "door.png",
-      "baby.m4a",
+      "baby.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "basket",
       "basket.png",
       "pillow.png",
-      "basket.m4a",
+      "basket.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "book",
       "book.png",
       "door.png",
-      "book.m4a",
+      "book.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -41,7 +41,7 @@
       "color",
       "color.png",
       "clock.png",
-      "color.m4a",
+      "color.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -52,7 +52,7 @@
       "forest",
       "forest.png",
       "market.png",
-      "forest.m4a",
+      "forest.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -63,7 +63,7 @@
       "heart",
       "heart.png",
       "river.png",
-      "heart.m4a",
+      "heart.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -74,7 +74,7 @@
       "house",
       "house.png",
       "radio.png",
-      "house.m4a",
+      "house.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -109,7 +109,7 @@
       "house.png",
       "",
       "",
-      "house.m4a"
+      "house.mp3"
     ],
     [
       "quizliteracy",
@@ -122,7 +122,7 @@
       "cat",
       "",
       "",
-      "book.m4a"
+      "book.mp3"
     ],
     [
       "quizliteracy",
@@ -135,7 +135,7 @@
       "basket.png",
       "",
       "",
-      "forest.m4a"
+      "forest.mp3"
     ],
     [
       "quizliteracy",
@@ -148,7 +148,7 @@
       "tree",
       "",
       "",
-      "tree.m4a"
+      "tree.mp3"
     ],
     [
       "quizliteracy",

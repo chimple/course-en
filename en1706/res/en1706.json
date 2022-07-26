@@ -27,7 +27,7 @@
       "speakingpet",
       "1",
       "Description",
-      "s_sound.mp3",
+      "s.mp3",
       "sh.mp3",
       "sing",
       "sing.mp3",
@@ -63,7 +63,7 @@
       "Description",
       "flower",
       "flower.png",
-      "flower.m4a"
+      "flower.mp3"
     ],
     [
       "writeletter",
@@ -86,7 +86,7 @@
       "Description",
       "yellow",
       "yellow.png",
-      "yellow.m4a"
+      "yellow.mp3"
     ],
     [
       "quizliteracy",

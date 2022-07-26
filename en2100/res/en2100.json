@@ -6,7 +6,7 @@
       "Description",
       "sun",
       "sun.png",
-      "sun.m4a"
+      "sun.mp3"
     ],
     [
       "writeword",
@@ -14,7 +14,7 @@
       "Description",
       "bug",
       "bug.png",
-      "bug.m4a"
+      "bug.mp3"
     ],
     [
       "writeword",
@@ -22,7 +22,7 @@
       "Description",
       "dad",
       "father.png",
-      "dad.m4a"
+      "dad.mp3"
     ],
     [
       "writeword",
@@ -30,7 +30,7 @@
       "Description",
       "hen",
       "hen.png",
-      "hen.m4a"
+      "hen.mp3"
     ],
     [
       "writeword",
@@ -38,7 +38,7 @@
       "Description",
       "sea",
       "sea.png",
-      "sea.m4a"
+      "sea.mp3"
     ],
     [
       "writeword",
@@ -70,7 +70,7 @@
       "kid",
       "",
       "",
-      "bug.m4a"
+      "bug.mp3"
     ],
     [
       "quizliteracy",
@@ -83,7 +83,7 @@
       "kid",
       "",
       "",
-      "dad.m4a"
+      "dad.mp3"
     ],
     [
       "quizliteracy",
@@ -96,7 +96,7 @@
       "hen.png",
       "",
       "",
-      "hen.m4a"
+      "hen.mp3"
     ],
     [
       "quizliteracy",

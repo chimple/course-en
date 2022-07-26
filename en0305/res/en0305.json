@@ -24,13 +24,13 @@
       "y",
       "yam",
       "yam.png",
-      "yam.m4a",
+      "yam.mp3",
       "yellow",
       "yellow.png",
-      "yellow.m4a",
+      "yellow.mp3",
       "yolk",
       "yolk.png",
-      "yolk.m4a"
+      "yolk.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "y",
       "",
       "",
-      "eng_y.m4a"
+      "y.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "y",
       "",
       "",
-      "eng_y.m4a"
+      "y.mp3"
     ]
   ]
 }

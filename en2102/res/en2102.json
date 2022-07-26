@@ -6,7 +6,7 @@
       "Description",
       "clock",
       "clock.png",
-      "clock.m4a"
+      "clock.mp3"
     ],
     [
       "writeword",
@@ -14,7 +14,7 @@
       "Description",
       "light",
       "light.jpg",
-      "light.m4a"
+      "light.mp3"
     ],
     [
       "writeword",
@@ -22,7 +22,7 @@
       "Description",
       "quail",
       "quail.png",
-      "quail.m4a"
+      "quail.mp3"
     ],
     [
       "writeword",
@@ -30,7 +30,7 @@
       "Description",
       "snake",
       "snake.png",
-      "snake.m4a"
+      "snake.mp3"
     ],
     [
       "writeword",
@@ -38,7 +38,7 @@
       "Description",
       "river",
       "river.png",
-      "river.m4a"
+      "river.mp3"
     ],
     [
       "writeword",
@@ -46,7 +46,7 @@
       "Description",
       "chair",
       "chair.png",
-      "chair.m4a"
+      "chair.mp3"
     ],
     [
       "writeword",
@@ -54,7 +54,7 @@
       "Description",
       "woman",
       "woman.png",
-      "woman.m4a"
+      "woman.mp3"
     ],
     [
       "writeword",
@@ -62,7 +62,7 @@
       "Description",
       "water",
       "water.png",
-      "water.m4a"
+      "water.mp3"
     ],
     [
       "quizliteracy",
@@ -86,7 +86,7 @@
       "snake",
       "",
       "",
-      "snake.m4a"
+      "snake.mp3"
     ],
     [
       "quizliteracy",
@@ -110,7 +110,7 @@
       "chair",
       "",
       "",
-      "chair.m4a"
+      "chair.mp3"
     ],
     [
       "quizliteracy",

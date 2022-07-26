@@ -81,8 +81,8 @@
       "speakingpet",
       "1",
       "Description",
-      "o_sound.mp3",
-      "a_sound.mp3",
+      "o.mp3",
+      "a.mp3",
       "top",
       "top.mp3",
       "B",
@@ -104,13 +104,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
+      "word_word",
       "e",
       "e",
       "i",
       "o",
-      "tree.png",
-      "tr__e"
+      "",
+      "tr_e",
+      "tree.mp3"
     ],
     [
       "quizliteracy",
@@ -123,7 +124,7 @@
       "hen.png",
       "",
       "",
-      "duck.m4a"
+      "duck.mp3"
     ],
     [
       "quizliteracy",
@@ -147,7 +148,7 @@
       "duck",
       "",
       "",
-      "lion.m4a"
+      "lion.mp3"
     ],
     [
       "quizliteracy",
@@ -199,7 +200,7 @@
       "k",
       "",
       "l_on",
-      "lion.m4a"
+      "lion.mp3"
     ]
   ]
 }

@@ -8,7 +8,7 @@
       "farm",
       "farm.png",
       "rain.png",
-      "farm.m4a",
+      "farm.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "heart",
       "heart.png",
       "river.png",
-      "heart.m4a",
+      "heart.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "square",
       "square.png",
       "rocket.png",
-      "square.m4a",
+      "square.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],    
     [
@@ -68,7 +68,7 @@
       "farm",
       "",
       "",
-      "farm.m4a"
+      "farm.mp3"
     ],
     [
       "quizliteracy",

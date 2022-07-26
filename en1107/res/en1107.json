@@ -23,8 +23,8 @@
       "speakingpet",
       "1",
       "Description",
-      "g_sound.mp3",
-      "p_sound.mp3",
+      "g.mp3",
+      "p.mp3",
       "game",
       "game.mp3",
       "A",
@@ -57,7 +57,7 @@
       "ball",
       "ball.png",
       "lion.png",
-      "ball.m4a",
+      "ball.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -97,7 +97,7 @@
       "all",
       "",
       "b___",
-      "ball.m4a"
+      "ball.mp3"
     ],
     [
       "quizliteracy",

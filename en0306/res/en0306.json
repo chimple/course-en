@@ -24,7 +24,7 @@
       "z",
       "zebra",
       "zebra.png",
-      "zebra.m4a",
+      "zebra.mp3",
       "zip",
       "zip.png",
       "zip.mp3",
@@ -43,7 +43,7 @@
       "o",
       "",
       "",
-      "z_sound.m4a"
+      "z.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "r",
       "",
       "",
-      "z_sound.m4a"
+      "z.mp3"
     ]
   ]
 }

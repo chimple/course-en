@@ -51,8 +51,8 @@
       "speakingpet",
       "1",
       "Description",
-      "k_sound.mp3",
-      "s_sound.mp3",
+      "k.mp3",
+      "s.mp3",
       "card",
       "card.mp3",
       "A",
@@ -87,7 +87,7 @@
       "Description",
       "clock",
       "clock.png",
-      "clock.m4a"
+      "clock.mp3"
     ],
     [
       "quizliteracy",

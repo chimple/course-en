@@ -24,13 +24,13 @@
       "q",
       "quail",
       "quail.png",
-      "quail.m4a",
+      "quail.mp3",
       "queen",
       "queen.png",
       "queen.mp3",
       "quiet",
       "quiet.png",
-      "quiet.m4a"
+      "quiet.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "q",
       "",
       "",
-      "eng_q.m4a"
+      "q.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "s",
       "",
       "",
-      "eng_q.m4a"
+      "q.mp3"
     ]
   ]
 }

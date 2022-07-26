@@ -8,7 +8,7 @@
       "news",
       "news.png",
       "fish.png",
-      "news.m4a",
+      "news.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -17,9 +17,9 @@
       "Description",
       "LEGIT",
       "police",
-      "police.png",
+      "police.jpg",
       "family.png",
-      "police.m4a",
+      "police.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "radio",
       "radio.png",
       "woman.png",
-      "radio.m4a",
+      "radio.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -41,7 +41,7 @@
       "river",
       "river1.png",
       "shoes.png",
-      "river.m4a",
+      "river.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -151,7 +151,7 @@
       "woman",
       "",
       "",
-      "police.m4a"
+      "police.mp3"
     ],
     [
       "quizliteracy",

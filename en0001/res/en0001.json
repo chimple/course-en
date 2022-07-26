@@ -27,7 +27,7 @@
       "bag.mp3",
       "bat",
       "bat.png",
-      "bat.m4a",
+      "bat.mp3",
       "ball",
       "ball.png",
       "ball.mp3"
@@ -43,7 +43,7 @@
       "e",
       "",
       "",
-      "eng_b.m4a"
+      "b.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "h",
       "",
       "",
-      "eng_b.m4a"
+      "b.mp3"
     ]
   ]
 }

@@ -54,8 +54,8 @@
       "speakingpet",
       "1",
       "Description",
-      "a_sound.mp3",
-      "b_sound.mp3",
+      "a.mp3",
+      "b.mp3",
       "arm",
       "arm.mp3",
       "A",
@@ -77,8 +77,8 @@
       "speakingpet",
       "1",
       "Description",
-      "b_sound.mp3",
-      "c_sound.mp3",
+      "b.mp3",
+      "c.mp3",
       "tub",
       "tub.mp3",
       "A",
@@ -100,8 +100,8 @@
       "speakingpet",
       "1",
       "Description",
-      "c_sound.mp3",
-      "d_sound.mp3",
+      "c.mp3",
+      "d.mp3",
       "crab",
       "crab.mp3",
       "A",
@@ -123,8 +123,8 @@
       "speakingpet",
       "1",
       "Description",
-      "e_sound.mp3",
-      "a_sound.mp3",
+      "e.mp3",
+      "a.mp3",
       "egg",
       "egg.mp3",
       "A",
@@ -153,7 +153,7 @@
       "u",
       "",
       "",
-      "a_sound.mp3"
+      "a.mp3"
     ],
     [
       "quizliteracy",
@@ -166,7 +166,7 @@
       "d",
       "",
       "",
-      "d_sound.mp3"
+      "d.mp3"
     ],
     [
       "quizliteracy",
@@ -179,7 +179,7 @@
       "b",
       "",
       "",
-      "b_sound.mp3"
+      "b.mp3"
     ],
     [
       "quizliteracy",
@@ -192,7 +192,7 @@
       "p",
       "",
       "",
-      "e_sound.mp3"
+      "e.mp3"
     ],
     [
       "quizliteracy",
@@ -205,7 +205,7 @@
       "l",
       "",
       "",
-      "c_sound.mp3"
+      "c.mp3"
     ]
   ]
 }

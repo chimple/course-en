@@ -22,7 +22,7 @@
       "face",
       "face.png",
       "rain.png",
-      "face.m4a",
+      "face.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -41,8 +41,8 @@
       "speakingpet",
       "1",
       "Description",
-      "f_sound.mp3",
-      "v_sound.mp3",
+      "f.mp3",
+      "v.mp3",
       "face",
       "face.mp3",
       "A",
@@ -141,7 +141,7 @@
       "ase",
       "",
       "v___",
-      "vase.m4a"
+      "vase.mp3"
     ],
     [
       "quizliteracy",

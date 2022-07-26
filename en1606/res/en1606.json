@@ -51,7 +51,7 @@
       "speakingpet",
       "1",
       "Description",
-      "s_sound.mp3",
+      "s.mp3",
       "sh.mp3",
       "sing",
       "sing.mp3",
@@ -85,7 +85,7 @@
       "A",
       "3,4",
       "truck",
-      "truck.m4a",
+      "truck.mp3",
       "B",
       "4,5",
       "rock",
@@ -161,7 +161,7 @@
       "short",
       "",
       "",
-      "shirt.m4a"
+      "shirt.mp3"
     ],
     [
       "quizliteracy",
@@ -174,7 +174,7 @@
       "shoulders.png",
       "",
       "",
-      "shoulders.m4a"
+      "shoulders.mp3"
     ],
     [
       "quizliteracy",
@@ -187,7 +187,7 @@
       "th",
       "",
       "__ip",
-      "ship.m4a"
+      "ship.mp3"
     ],
     [
       "quizliteracy",
