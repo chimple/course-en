@@ -7,7 +7,7 @@
       "S",
       "₹2000",
       "2000note.png",
-      "2000_Rupeess.mp3",
+      "2000_rupees.mp3",
       "₹10",
       "10note.png",
       "10Rupees.mp3",
@@ -25,7 +25,7 @@
       "10Rupees.mp3",
       "₹20",
       "20note.png",
-      "20Rupees.mp3",
+      "20_Rupees.mp3",
       "₹5",
       "5note.png",
       "five_Rupeess.mp3"
@@ -37,13 +37,13 @@
       "P",
       "₹100",
       "100note.png",
-      "100Rupees.mp3",
+      "100_rupees.mp3",
       "₹500",
       "500note.png",
-      "fivehundred_Rupees.mp3",
+      "five_hundred_Rupees.mp3",
       "₹2000",
       "2000note.png",
-      "2000Rupees.mp3"
+      "2000_rupees.mp3"
     ],
     [
       "picturemeaning",
@@ -67,7 +67,7 @@
       "P",
       "₹200",
       "200note.png",
-      "200Rupees.mp3",
+      "200_rupees.mp3",
       "₹10",
       "10note.png",
       "10Rupees.mp3",
@@ -86,7 +86,7 @@
       "10note.png",
       "",
       "",
-      "20Rupees.mp3",
+      "20_Rupees.mp3",
       "",
       ""
     ],
@@ -116,7 +116,7 @@
       "500note.png",
       "",
       "",
-      "fivehundred_Rupees.mp3",
+      "five_hundred_Rupees.mp3",
       "",
       ""
     ]

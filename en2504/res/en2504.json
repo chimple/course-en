@@ -52,7 +52,7 @@
       "It/is/a strong/lion",
       "",
       "Itisa_stronglion.jpg",
-      "itisastronglion.mp3"
+      "it_is_a_strong_lion.mp3"
     ],
     [
       "createsentence",
@@ -61,7 +61,7 @@
       "It/is/a large/airplane",
       "are",
       "Itisa_largeairplane.jpg",
-      "itisalargeairplane.mp3"
+      "it_is_a_large_airplane.mp3"
     ],
     [
       "createsentence",
@@ -70,7 +70,7 @@
       "It/is/a strong/lion",
       "are",
       "Itisa_stronglion.jpg",
-      "itisastronglion.mp3"
+      "it_is_a_strong_lion.mp3"
     ],
     [
       "createsentence",
@@ -79,7 +79,7 @@
       "It/is/a red/ball",
       "They",
       "Itisa_redball.jpg",
-      "itisaredball.mp3"
+      "it_is_a_red_ball.mp3"
     ],
     [
       "createsentence",
@@ -101,7 +101,7 @@
       "it",
       "",
       "Choose the pronoun",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -127,7 +127,7 @@
       "It",
       "",
       "____ is a strong lion. ",
-      "itisastronglion.mp3"
+      "it_is_a_strong_lion.mp3"
     ],
     [
       "quizliteracy",

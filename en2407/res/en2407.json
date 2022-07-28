@@ -7,7 +7,7 @@
       "Mary/eats/many/apples",
       "",
       "Maryeatsan_appleevery_day.jpg",
-      "maryeatsmanyapples.mp3"
+      "mary_eats_many_apples.mp3"
     ],
     [
       "createsentence",
@@ -16,7 +16,7 @@
       "Mary/eats/three/apples",
       "",
       "Maryeatsan_appleevery_day.jpg",
-      "maryeatsthreeapples.mp3"
+      "mary_eats_three_apples.mp3"
     ],
     [
       "createsentence",
@@ -25,7 +25,7 @@
       "Rani/reads/many/books",
       "",
       "Ranireadsmanybooks.jpg",
-      "Ranireadsmanybooks.mp3"
+      "Rani_reads_many_books.mp3"
     ],
     [
       "createsentence",
@@ -34,7 +34,7 @@
       "Rani/reads/ten/books",
       "",
       "Ranireadsmanybooks.jpg",
-      "Ranireadstenbooks.mp3"
+      "Rani_reads_ten_books.mp3"
     ],
     [
       "createsentence",
@@ -43,7 +43,7 @@
       "The orange tree/has/many/oranges",
       "",
       "The_orange_treehasmanyoranges.jpg",
-      "theorangetreehasmanyoranges.mp3"
+      "the_orange_tree_has_many_oranges.mp3"
     ],
     [
       "createsentence",
@@ -52,7 +52,7 @@
       "The pond/has/many/frogs",
       "",
       "The_pondhasmanyfrogs.jpg",
-      "thepondhasmanyfrogs.mp3"
+      "the_pond_has_many_frogs.mp3"
     ],
     [
       "createsentence",
@@ -61,7 +61,7 @@
       "The book/has/many/pages",
       "",
       "The_bookhasmanypages.jpg",
-      "thebookhasmanypages.mp3"
+      "the_book_has_many_pages.mp3"
     ],
     [
       "createsentence",
@@ -70,7 +70,7 @@
       "The earth/has/one/moon",
       "",
       "The_earthhasonemoon.jpg",
-      "theearthhasonemoon.mp3"
+      "the_earth_has_one_moon.mp3"
     ],
     [
       "createsentence",
@@ -79,7 +79,7 @@
       "I/have/many/friends",
       "",
       "Ihavemanyfriends.jpg",
-      "ihavemanyfriends.mp3"
+      "i_have_many_friends.mp3"
     ],
     [
       "quizliteracy",
@@ -92,7 +92,7 @@
       "Mary eating many apples.",
       "",
       "choose the right one",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -105,7 +105,7 @@
       "The pond has four dogs",
       "",
       "",
-      "thepondhasmanyfrogs.mp3"
+      "the_pond_has_many_frogs.mp3"
     ],
     [
       "quizliteracy",
@@ -118,7 +118,7 @@
       "The earth has two stars",
       "",
       "",
-      "theearthhasonemoon.mp3"
+      "the_earth_has_one_moon.mp3"
     ]
   ]
 }

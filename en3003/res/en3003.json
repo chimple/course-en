@@ -16,7 +16,7 @@
       "Where/is/the bat?",
       "",
       "Whereisthe_bat.jpg",
-      "whereisthebat.mp3"
+      "where_is_the_bat.mp3"
     ],
     [
       "createsentence",
@@ -25,7 +25,7 @@
       "Where/is/the cat?",
       "",
       "Whereisthe_cat.jpg",
-      "whereisthecat.mp3"
+      "where_is_the_cat.mp3"
     ],
     [
       "quizliteracy",
@@ -38,7 +38,7 @@
       "Where is the cat?",
       "",
       "choose the right one",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -51,7 +51,7 @@
       "Who is she?",
       "",
       "choose the right one",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -64,7 +64,7 @@
       "Where is the bat.",
       "",
       "choose the right one",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ]
   ]
 }

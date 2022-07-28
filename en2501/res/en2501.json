@@ -172,7 +172,7 @@
       "She cannot jump well.",
       "l12_shecannotwritewell.png",
       "",
-      "shecannotwritewell.mp3"
+      "she_cannot_write_well.mp3"
     ],
     [
       "quizliteracy",
@@ -185,7 +185,7 @@
       "She is a nurse.",
       "l6_shesinger.png",
       "",
-      "sheisasinger.mp3"
+      "she_is_a_singer.mp3"
     ],
     [
       "quizliteracy",
@@ -198,7 +198,7 @@
       "she",
       "",
       "Choose the Pronoun",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -211,7 +211,7 @@
       "eat",
       "",
       "Choose the Pronoun",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ]
   ]
 }

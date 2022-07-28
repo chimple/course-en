@@ -34,7 +34,7 @@
       "I/have/many/friends",
       "",
       "Ihavemanyfriends.jpg",
-      "ihavemanyfriends.mp3"
+      "i_have_many_friends.mp3"
     ],
     [
       "createsentence",
@@ -43,7 +43,7 @@
       "I/have/many/friends",
       "friend",
       "Ihavemanyfriends.jpg",
-      "ihavemanyfriends.mp3"
+      "i_have_many_friends.mp3"
     ],
     [
       "quizliteracy",
@@ -82,7 +82,7 @@
       "I",
       "",
       "____ have many friends. ",
-      "choosetherightone.mp3"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -108,7 +108,7 @@
       "The Dog was angry. ",
       "",
       "Choose the sentence with pronoun.",
-      "iwasangry.mp3"
+      "i_was_angry.mp3"
     ]
   ]
 }
