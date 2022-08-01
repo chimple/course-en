@@ -31,10 +31,10 @@
       "createsentence",
       "1",
       "Description",
-      "Rita/is/a sister",
+      "Rita/has/a sister",
       "",
       "Natashaisa_helpfulfriend.jpg",
-      "Rita_is_a_sister.mp3"
+      "Rita_has_a_sister.mp3"
     ],
     [
       "createsentence",
@@ -89,13 +89,13 @@
       "1",
       "Description",
       "image_sentence",
-      "Rita is a sister. ",
+      "Rita has a sister. ",
       "Ram is tall. ",
       "Aarthi is a girl. ",
-      "Rita is a sister. ",
+      "Rita has a sister. ",
       "Natashaisa_helpfulfriend.jpg",
       "",
-      "Rita_is_a_sister.mp3"
+      "Rita_has_a_sister.mp3"
     ],
     [
       "quizliteracy",
