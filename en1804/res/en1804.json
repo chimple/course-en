@@ -15,7 +15,7 @@
       "heart",
       "heart.png",
       "river.png",
-      "heart.m4a",
+      "heart.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -53,7 +53,7 @@
       "classroom",
       "",
       "",
-      "teacher.m4a"
+      "teacher.mp3"
     ],
     [
       "quizliteracy",
@@ -66,7 +66,7 @@
       "dad",
       "",
       "",
-      "sea.m4a"
+      "sea.mp3"
     ],
     [
       "quizliteracy",
@@ -79,7 +79,7 @@
       "fire.png",
       "",
       "",
-      "leaf.m4a"
+      "leaf.mp3"
     ]
   ]
 }

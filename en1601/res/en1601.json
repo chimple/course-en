@@ -53,7 +53,7 @@
       "speakingpet",
       "1",
       "Description",
-      "k_sound.mp3",
+      "k.mp3",
       "ch.mp3",
       "coat",
       "coat.mp3",
@@ -202,7 +202,7 @@
       "shape, whale",
       "",
       "choose pair with same first sound",
-      "choosepairwithsamefirstsound.m4a"
+      "Choose_pair_with_same_first_sound.mp3"
     ]
   ]
 }

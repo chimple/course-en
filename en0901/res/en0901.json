@@ -8,7 +8,7 @@
       "cow",
       "cow.png",
       "bat.png",
-      "cow.m4a",
+      "cow.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "pig",
       "pig.png",
       "bug.png",
-      "pig.m4a",
+      "pig.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "man",
       "man.png",
       "mom.png",
-      "man.m4a",
+      "man.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -101,7 +101,7 @@
       "box.png",
       "",
       "",
-      "cow.m4a"
+      "cow.mp3"
     ],
     [
       "quizliteracy",
@@ -114,7 +114,7 @@
       "dog",
       "",
       "",
-      "pig.m4a"
+      "pig.mp3"
     ],
     [
       "quizliteracy",
@@ -127,7 +127,7 @@
       "box.png",
       "",
       "",
-      "man.m4a"
+      "man.mp3"
     ],
     [
       "quizliteracy",

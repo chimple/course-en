@@ -54,8 +54,8 @@
       "speakingpet",
       "1",
       "Description",
-      "m_sound.mp3",
-      "p_sound.mp3",
+      "m.mp3",
+      "p.mp3",
       "man",
       "man.mp3",
       "A",
@@ -77,8 +77,8 @@
       "speakingpet",
       "1",
       "Description",
-      "q_sound.mp3",
-      "p_sound.mp3",
+      "q.mp3",
+      "p.mp3",
       "quiz",
       "quiz.mp3",
       "A",
@@ -100,8 +100,8 @@
       "speakingpet",
       "1",
       "Description",
-      "r_sound.mp3",
-      "n_sound.mp3",
+      "r.mp3",
+      "n.mp3",
       "run",
       "run.mp3",
       "A",
@@ -123,8 +123,8 @@
       "speakingpet",
       "1",
       "Description",
-      "c_sound.mp3",
-      "s_sound.mp3",
+      "c.mp3",
+      "s.mp3",
       "cup",
       "cup.mp3",
       "A",
@@ -146,8 +146,8 @@
       "speakingpet",
       "1",
       "Description",
-      "p_sound.mp3",
-      "f_sound.mp3",
+      "p.mp3",
+      "f.mp3",
       "park",
       "park.mp3",
       "A",
@@ -169,8 +169,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t_sound.mp3",
-      "r_sound.mp3",
+      "t.mp3",
+      "r.mp3",
       "team",
       "team.mp3",
       "A",
@@ -199,7 +199,7 @@
       "m",
       "",
       "",
-      "r_sound.mp3"
+      "r.mp3"
     ],
     [
       "quizliteracy",
@@ -212,7 +212,7 @@
       "v",
       "",
       "",
-      "t_sound.mp3"
+      "t.mp3"
     ],
     [
       "quizliteracy",
@@ -225,7 +225,7 @@
       "t",
       "",
       "",
-      "s_sound.mp3"
+      "s.mp3"
     ],
     [
       "quizliteracy",
@@ -238,7 +238,7 @@
       "q",
       "",
       "",
-      "q_sound.mp3"
+      "q.mp3"
     ],
     [
       "quizliteracy",
@@ -251,7 +251,7 @@
       "p",
       "",
       "",
-      "p_sound.mp3"
+      "p.mp3"
     ]
   ]
 }

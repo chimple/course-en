@@ -27,10 +27,10 @@
       "fan.mp3",
       "frog",
       "frog.png",
-      "frog.m4a",
+      "frog.mp3",
       "fish",
       "fish1.png",
-      "fish.m4a"
+      "fish.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "q",
       "",
       "",
-      "eng_f.m4a"
+      "f.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "h",
       "",
       "",
-      "eng_f.m4a"
+      "f.mp3"
     ]
   ]
 }

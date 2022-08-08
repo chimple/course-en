@@ -24,10 +24,10 @@
       "e",
       "egg",
       "egg1.png",
-      "egg.m4a",
+      "egg.mp3",
       "ear",
       "ear.png",
-      "ear.m4a",
+      "ear.mp3",
       "eye",
       "eye.png",
       "eye.mp3"
@@ -43,7 +43,7 @@
       "i",
       "",
       "",
-      "eng_e.m4a"
+      "e.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "e",
       "",
       "",
-      "eng_e.m4a"
+      "e.mp3"
     ]
   ]
 }

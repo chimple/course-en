@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "bf59413e-a2c5-4cea-ac60-97c2511f1de6",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2400,
+  "height": 2400,
+  "platformSettings": {},
+  "subMetas": {
+    "Manju_plays": {
+      "ver": "1.0.6",
+      "uuid": "ecd6631f-a280-4c9f-a608-55e50a10195f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "bf59413e-a2c5-4cea-ac60-97c2511f1de6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -18,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 95,
+      "width": 2364,
+      "height": 2210,
+      "rawWidth": 2400,
+      "rawHeight": 2400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

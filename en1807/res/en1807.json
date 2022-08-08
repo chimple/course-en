@@ -8,7 +8,7 @@
       "face",
       "face.png",
       "rain.png",
-      "face.m4a",
+      "face.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "farm",
       "farm.png",
       "rain.png",
-      "farm.m4a",
+      "farm.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "train",
       "train.png",
       "color.png",
-      "train.m4a",
+      "train.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -149,7 +149,7 @@
       "ai",
       "",
       "tr__n",
-      "train.m4a"
+      "train.mp3"
     ],
     [
       "quizliteracy",

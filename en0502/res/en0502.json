@@ -7,13 +7,13 @@
       "a",
       "animals",
       "animals.png",
-      "animals.m4a",
+      "animals.mp3",
       "axe",
       "axe.png",
-      "axe.m4a",
+      "axe.mp3",
       "apple",
       "apple.png",
-      "apple.m4a"
+      "apple.mp3"
     ],
     [
       "writecard",
@@ -22,13 +22,13 @@
       "e",
       "egg",
       "egg.png",
-      "egg.m4a",
+      "egg.mp3",
       "ear",
       "ear.png",
-      "ear.m4a",
+      "ear.mp3",
       "elephant",
       "elephant.png",
-      "elephant.m4a"
+      "elephant.mp3"
     ],
     [
       "writecard",
@@ -37,13 +37,13 @@
       "i",
       "impala",
       "impala.png",
-      "impala.m4a",
+      "impala.mp3",
       "iguana",
       "iguana.png",
-      "iguana.m4a",
+      "iguana.mp3",
       "iron",
       "iron.png",
-      "iron.m4a"
+      "iron.mp3"
     ],
     [
       "writecard",
@@ -52,13 +52,13 @@
       "o",
       "office",
       "office.png",
-      "office.m4a",
+      "office.mp3",
       "octopus",
       "octopus.png",
-      "octopus.m4a",
+      "octopus.mp3",
       "orange",
       "orange.png",
-      "orange.m4a"
+      "orange.mp3"
     ],
     [
       "writecard",
@@ -67,13 +67,13 @@
       "u",
       "umbrella",
       "umbrella.png",
-      "umbrella.m4a",
+      "umbrella.mp3",
       "unicorn",
       "unicorn.png",
-      "unicorn.m4a",
+      "unicorn.mp3",
       "up",
       "up.png",
-      "up.m4a"
+      "up.mp3"
     ],
     [
       "quizliteracy",
@@ -86,7 +86,7 @@
       "ear",
       "",
       "",
-      "ear.m4a"
+      "ear.mp3"
     ],
     [
       "quizliteracy",
@@ -99,7 +99,7 @@
       "dad",
       "",
       "",
-      "egg.m4a"
+      "egg.mp3"
     ],
     [
       "quizliteracy",

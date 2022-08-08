@@ -24,10 +24,10 @@
       "s",
       "sky",
       "sky.png",
-      "sky.m4a",
+      "sky.mp3",
       "soap",
       "soap.png",
-      "soap.m4a",
+      "soap.mp3",
       "sun",
       "sun.png",
       "sun.mp3"
@@ -43,7 +43,7 @@
       "s",
       "",
       "",
-      "s_sound.m4a"
+      "s.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "z",
       "",
       "",
-      "s_sound.m4a"
+      "s_phonic.mp3"
     ]
   ]
 }

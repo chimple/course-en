@@ -64,8 +64,8 @@
       "speakingpet",
       "1",
       "Description",
-      "u_sound.mp3",
-      "e_sound.mp3",
+      "u.mp3",
+      "e.mp3",
       "under",
       "under.mp3",
       "A",
@@ -87,8 +87,8 @@
       "speakingpet",
       "1",
       "Description",
-      "f_sound.mp3",
-      "v_sound.mp3",
+      "f.mp3",
+      "v.mp3",
       "face",
       "face.mp3",
       "A",
@@ -110,8 +110,8 @@
       "speakingpet",
       "1",
       "Description",
-      "z_sound.mp3",
-      "s_sound.mp3",
+      "z.mp3",
+      "s.mp3",
       "zip",
       "zip.mp3",
       "A",
@@ -140,7 +140,7 @@
       "o",
       "",
       "",
-      "z_sound.mp3"
+      "z.mp3"
     ],
     [
       "quizliteracy",
@@ -153,7 +153,7 @@
       "b",
       "",
       "",
-      "x_sound.mp3"
+      "x.mp3"
     ],
     [
       "quizliteracy",
@@ -166,7 +166,7 @@
       "w",
       "",
       "",
-      "w_sound.mp3"
+      "w.mp3"
     ],
     [
       "quizliteracy",
@@ -179,7 +179,7 @@
       "y",
       "",
       "",
-      "u_sound.mp3"
+      "u.mp3"
     ],
     [
       "quizliteracy",
@@ -192,7 +192,7 @@
       "y",
       "",
       "",
-      "y_sound.mp3"
+      "y.mp3"
     ]
   ]
 }

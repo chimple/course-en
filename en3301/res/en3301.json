@@ -52,7 +52,7 @@
       "Where/is/the bat?",
       "are",
       "Whereisthe_bat.jpg",
-      "whereisthebat.mp3"
+      "where_is_the_bat.mp3"
     ],
     [
       "createsentence",
@@ -61,7 +61,7 @@
       "Where/is/the cat?",
       "are",
       "Whereisthe_cat.jpg",
-      "whereisthecat.mp3"
+      "where_is_the_cat.mp3"
     ],
     [
       "fillblank",
@@ -85,7 +85,7 @@
       "does he like bananas?",
       "",
       "choose the right one",
-      "choosetherightone.m4a"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -111,7 +111,7 @@
       "Who is she.",
       "",
       "choose the right one",
-      "choosetherightone.m4a"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -124,7 +124,7 @@
       "Where is the bat?",
       "Whereisthe_bat.jpg",
       "",
-      "whereisthebat.mp3"
+      "where_is_the_bat.mp3"
     ],
     [
       "quizliteracy",

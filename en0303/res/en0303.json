@@ -24,10 +24,10 @@
       "w",
       "worm",
       "worm.png",
-      "worm.m4a",
+      "worm.mp3",
       "water",
       "water.png",
-      "water.m4a",
+      "water.mp3",
       "wing",
       "wing.png",
       "wing.mp3"
@@ -43,7 +43,7 @@
       "w",
       "",
       "",
-      "w_sound.m4a"
+      "w.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "w",
       "",
       "",
-      "w_sound.m4a"
+      "w.mp3"
     ]
   ]
 }

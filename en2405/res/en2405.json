@@ -115,7 +115,7 @@
       "image_11_3.jpg",
       "living room",
       "319.-1488",
-      "livingroom.mp3",
+      "living_room.mp3",
       "table",
       "1143.-627",
       "table.mp3",
@@ -164,7 +164,7 @@
       "x",
       "",
       "pe_",
-      "pen.m4a"
+      "pen.mp3"
     ],
     [
       "quizliteracy",
@@ -177,7 +177,7 @@
       "ea",
       "",
       "b___k",
-      "book.m4a"
+      "book.mp3"
     ],
     [
       "quizliteracy",
@@ -201,7 +201,7 @@
       "box.png",
       "",
       "",
-      "bed.m4a"
+      "bed.mp3"
     ],
     [
       "quizliteracy",
@@ -214,7 +214,7 @@
       "door",
       "",
       "",
-      "bathroom.m4a"
+      "bathroom.mp3"
     ]
   ]
 }

@@ -27,8 +27,8 @@
       "speakingpet",
       "1",
       "Description",
-      "h_sound.mp3",
-      "b_sound.mp3",
+      "h.mp3",
+      "b.mp3",
       "have",
       "have.mp3",
       "A",
@@ -50,7 +50,7 @@
       "speakingpet",
       "1",
       "Description",
-      "k_sound.mp3",
+      "k.mp3",
       "ch.mp3",
       "coat",
       "coat.mp3",
@@ -96,8 +96,8 @@
       "speakingpet",
       "1",
       "Description",
-      "s_sound.mp3",
-      "k_sound.mp3",
+      "s.mp3",
+      "k.mp3",
       "sit",
       "sit.mp3",
       "A",
@@ -119,8 +119,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t_sound.mp3",
-      "d_sound.mp3",
+      "t.mp3",
+      "d.mp3",
       "pet",
       "pet.mp3",
       "A",
@@ -149,7 +149,7 @@
       "goat",
       "",
       "",
-      "goat.m4a"
+      "goat.mp3"
     ],
     [
       "quizliteracy",
@@ -162,7 +162,7 @@
       "have",
       "",
       "",
-      "boat.m4a"
+      "boat.mp3"
     ],
     [
       "quizliteracy",

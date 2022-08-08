@@ -4,8 +4,8 @@
       "speakingpet",
       "1",
       "Description",
-      "s_sound.mp3",
-      "k_sound.mp3",
+      "s.mp3",
+      "k.mp3",
       "sit",
       "sit.mp3",
       "A",
@@ -38,7 +38,7 @@
       "A",
       "3,4",
       "truck",
-      "truck.m4a",
+      "truck.mp3",
       "B",
       "4,5",
       "rock",
@@ -109,7 +109,7 @@
       "Description",
       "duck",
       "duck.png",
-      "duck.m4a"
+      "duck.mp3"
     ],
     [
       "writeword",
@@ -117,7 +117,7 @@
       "Description",
       "clock",
       "clock.png",
-      "clock.m4a"
+      "clock.mp3"
     ],
     [
       "quizliteracy",

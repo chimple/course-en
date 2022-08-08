@@ -7,7 +7,7 @@
       "Mary/eats/an apple/every day",
       "",
       "Maryeatsan_appleevery_day.jpg",
-      "maryeatsanappleeveryday.mp3"
+      "mary_eats_an_apple_everyday.mp3"
     ],
     [
       "createsentence",
@@ -34,7 +34,7 @@
       "They/sell/milk/together",
       "",
       "The_cowmakesmilk.jpg",
-      "theysellmilktogether.mp3"
+      "they_sell_milk_together.mp3"
     ],
     [
       "createsentence",
@@ -52,7 +52,7 @@
       "The/frogs/make/noise/every night",
       "",
       "Thefrogsmakenoiseevery_night.jpg",
-      "thefrogsmakenoiseeverynight.mp3"
+      "the_frogs_make_noise_everynight.mp3"
     ],
     [
       "createsentence",
@@ -61,7 +61,7 @@
       "The/rooster/crows/every morning",
       "",
       "Theroostercrowsevery_morning.jpg",
-      "theroostercrowseverymorning.mp3"
+      "the_rooster_crows_everymorning.mp3"
     ],
     [
       "createsentence",
@@ -70,7 +70,7 @@
       "The/sun/shines/brightly",
       "",
       "Thesunshinesbrightly.jpg",
-      "thesunshinesbrightly.mp3"
+      "the_sunshines_brightly.mp3"
     ],
     [
       "createsentence",
@@ -79,7 +79,7 @@
       "The/van/drives/down the road",
       "",
       "Thevandrivesdown_the_road.jpg",
-      "thevandrivesdowntheroad.mp3"
+      "the_van_drives_down_the_road.mp3"
     ],
     [
       "quizliteracy",
@@ -92,7 +92,7 @@
       "Mary eating apple.",
       "",
       "choose the right one",
-      "choosetherightone.m4a"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -105,7 +105,7 @@
       "The van driving down the road.",
       "",
       "choose the right one",
-      "choosetherightone.m4a"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -118,7 +118,7 @@
       "They selling milk together.",
       "",
       "choose the right one",
-      "choosetherightone.m4a"
+      "Choose_the_right_one.mp3"
     ],
     [
       "quizliteracy",
@@ -131,7 +131,7 @@
       "The frogs make noise every night. ",
       "Thefrogsmakenoiseevery_night.jpg",
       "",
-      "thefrogsmakenoiseeverynight.mp3"
+      "the_frogs_make_noise_everynight.mp3"
     ],
     [
       "quizliteracy",
@@ -144,7 +144,7 @@
       "The tree shines brightly. ",
       "Thesunshinesbrightly.jpg",
       "",
-      "thesunshinesbrightly.mp3"
+      "the_sunshines_brightly.mp3"
     ]
   ]
 }

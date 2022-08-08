@@ -27,10 +27,10 @@
       "ant.mp3",
       "axe",
       "axe.png",
-      "axe.m4a",
+      "axe.mp3",
       "apple",
       "apple.png",
-      "apple.m4a"
+      "apple.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "o",
       "",
       "",
-      "eng_a.m4a"
+      "a.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "h",
       "",
       "",
-      "eng_a.m4a"
+      "a.mp3"
     ]
   ]
 }

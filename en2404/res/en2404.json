@@ -4,8 +4,8 @@
       "fillblank",
       "1",
       "Description",
-      "The [chicken] is in the nest.",
-      "The_chicken_is_in_the_nest.mp3",
+      "The [chicken] is in the coop.",
+      "The_chicken_is_in_the_coop.mp3",
       "hen",
       "lion",
       "zebra",
@@ -115,7 +115,7 @@
       "image_5_1.jpg",
       "wild cats",
       "725.-1520",
-      "wildcats.mp3",
+      "wild_cats.mp3",
       "leopard",
       "298.-944",
       "leopard.mp3",
@@ -200,7 +200,7 @@
       "goat",
       "",
       "",
-      "goat.m4a"
+      "goat.mp3"
     ],
     [
       "quizliteracy",
@@ -235,7 +235,7 @@
       "duck",
       "",
       "",
-      "lion.m4a"
+      "lion.mp3"
     ],
     [
       "quizliteracy",
@@ -248,7 +248,7 @@
       "cow.png",
       "",
       "",
-      "cow.m4a"
+      "cow.mp3"
     ]
   ]
 }

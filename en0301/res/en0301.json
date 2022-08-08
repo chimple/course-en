@@ -24,13 +24,13 @@
       "u",
       "umbrella",
       "umbrella.png",
-      "umbrella.m4a",
+      "umbrella.mp3",
       "under",
       "under.png",
       "under.mp3",
       "up",
       "up.png",
-      "up.m4a"
+      "up.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "u",
       "",
       "",
-      "eng_u.m4a"
+      "u.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "z",
       "",
       "",
-      "eng_u.m4a"
+      "u.mp3"
     ]
   ]
 }

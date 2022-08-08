@@ -27,10 +27,10 @@
       "van.mp3",
       "vase",
       "vase.png",
-      "vase.m4a",
+      "vase.mp3",
       "vest",
       "vest.png",
-      "vest.m4a"
+      "vest.mp3"
     ],
     [
       "quizliteracy",
@@ -43,7 +43,7 @@
       "v",
       "",
       "",
-      "eng_v.m4a"
+      "v.mp3"
     ],
     [
       "quizliteracy",
@@ -68,7 +68,7 @@
       "z",
       "",
       "",
-      "eng_v.m4a"
+      "v.mp3"
     ]
   ]
 }

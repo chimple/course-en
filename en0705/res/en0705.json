@@ -74,7 +74,7 @@
       "speakingpet",
       "1",
       "Description",
-      "e_sound.mp3",
+      "e.mp3",
       "u.mp3",
       "wet",
       "wet.mp3",
@@ -97,7 +97,7 @@
       "speakingpet",
       "1",
       "Description",
-      "i_sound.mp3",
+      "i.mp3",
       "u.mp3",
       "big",
       "big.mp3",
@@ -120,12 +120,14 @@
       "quizliteracy",
       "1",
       "Description",
-      "image_word",
-      "bug",
-      "bug",
-      "bus",
-      "bat",
-      "bug.png"
+      "word_word",
+      "u",
+      "u",
+      "c",
+      "k",
+      "",
+      "b_g",
+      "bug.mp3"
     ],
     [
       "quizliteracy",
@@ -138,7 +140,7 @@
       "dog",
       "",
       "",
-      "bug.m4a"
+      "bug.mp3"
     ],
     [
       "quizliteracy",
@@ -151,7 +153,7 @@
       "jam",
       "",
       "",
-      "fun.m4a"
+      "fun.mp3"
     ],
     [
       "quizliteracy",

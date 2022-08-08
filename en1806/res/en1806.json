@@ -15,7 +15,7 @@
       "house",
       "house.png",
       "radio.png",
-      "house.m4a",
+      "house.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -104,8 +104,8 @@
       "speakingpet",
       "1",
       "Description",
-      "h_sound.mp3",
-      "k_sound.mp3",
+      "h.mp3",
+      "k.mp3",
       "hand",
       "hand.mp3",
       "A",
@@ -127,8 +127,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t_sound.mp3",
-      "d_sound.mp3",
+      "t.mp3",
+      "d.mp3",
       "pet",
       "pet.mp3",
       "A",
@@ -168,7 +168,7 @@
       "house",
       "",
       "",
-      "house.m4a"
+      "house.mp3"
     ],
     [
       "quizliteracy",
@@ -181,7 +181,7 @@
       "blouse",
       "",
       "",
-      "blouse.m4a"
+      "blouse.mp3"
     ],
     [
       "quizliteracy",
@@ -194,7 +194,7 @@
       "shoulders.png",
       "",
       "",
-      "shoulders.m4a"
+      "shoulders.mp3"
     ],
     [
       "quizliteracy",

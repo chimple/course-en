@@ -8,7 +8,7 @@
       "bed",
       "bed.png",
       "mom.png",
-      "bed.m4a",
+      "bed.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -19,7 +19,7 @@
       "bat",
       "bat.png",
       "cat.png",
-      "bat.m4a",
+      "bat.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -30,7 +30,7 @@
       "bug",
       "bug1.png",
       "man.png",
-      "bug.m4a",
+      "bug.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -41,7 +41,7 @@
       "mom",
       "mom.png",
       "bat.png",
-      "mom.m4a",
+      "mom.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -112,7 +112,7 @@
       "box.png",
       "",
       "",
-      "bed.m4a"
+      "bed.mp3"
     ],
     [
       "quizliteracy",
@@ -125,7 +125,7 @@
       "dog",
       "",
       "",
-      "bug.m4a"
+      "bug.mp3"
     ],
     [
       "quizliteracy",
@@ -151,7 +151,7 @@
       "baby",
       "",
       "",
-      "mom.m4a"
+      "mom.mp3"
     ],
     [
       "quizliteracy",

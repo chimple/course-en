@@ -22,7 +22,7 @@
       "train",
       "train.png",
       "color.png",
-      "train.m4a",
+      "train.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -33,7 +33,7 @@
       "shoes",
       "shoes.png",
       "hippo.png",
-      "shoes.m4a",
+      "shoes.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -44,7 +44,7 @@
       "square",
       "square.png",
       "rocket.png",
-      "square.m4a",
+      "square.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -55,7 +55,7 @@
       "tomato",
       "tomato.png",
       "basket.png",
-      "tomato.m4a",
+      "tomato.mp3",
       "abcdefghijklmnopqrstuvwxyz"
     ],
     [
@@ -125,7 +125,7 @@
       "rocket.png",
       "",
       "",
-      "tomato.m4a"
+      "tomato.mp3"
     ],
     [
       "quizliteracy",
@@ -138,7 +138,7 @@
       "tree",
       "",
       "",
-      "train.m4a"
+      "train.mp3"
     ],
     [
       "quizliteracy",
@@ -151,7 +151,7 @@
       "basket.png",
       "",
       "",
-      "shoes.m4a"
+      "shoes.mp3"
     ],
     [
       "quizliteracy",

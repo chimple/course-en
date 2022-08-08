@@ -43,7 +43,7 @@
       "1",
       "Description",
       "ck.mp3",
-      "eng_i.mp3",
+      "i.mp3",
       "kick",
       "kick.mp3",
       "A",
@@ -88,7 +88,7 @@
       "speakingpet",
       "1",
       "Description",
-      "k_sound.mp3",
+      "k.mp3",
       "ch.mp3",
       "coat",
       "coat.mp3",
@@ -118,7 +118,7 @@
       "hen.png",
       "",
       "",
-      "duck.m4a"
+      "duck.mp3"
     ],
     [
       "quizliteracy",
