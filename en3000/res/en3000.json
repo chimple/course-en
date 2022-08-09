@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "A black cat[.]",
+      "[A] black cat[.]",
       "A_black_cat.mp3",
       "n",
       "locked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "It is a cat[.]",
+      "It [is] a cat[.]",
       "It_is_a_cat.mp3",
       "n",
       "locked"

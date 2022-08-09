@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[You are kind.]",
+      "[You] [are] [kind.]",
       "You_are_kind.mp3",
       "y",
       "unlocked"
@@ -13,7 +13,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[She is short.]",
+      "[She] [is] [short.]",
       "She_is_short.mp3",
       "y",
       "unlocked"
@@ -22,7 +22,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[I am fast.]",
+      "[I] [am] [fast.]",
       "I_am_fast.mp3",
       "y",
       "unlocked"
@@ -33,7 +33,7 @@
       "Description",
       "The plant/grows",
       "",
-      "The_plantgrows_(2).jpg",
+      "The_plantgrows.jpg",
       "The_plant_grows.mp3"
     ],
     [
@@ -60,7 +60,7 @@
       "Description",
       "Salma/drinks/milk",
       "",
-      "The_milkisdelicious.jpg",
+      "Salma_drinks_milk.jpg",
       "Salma_drinks_milk.mp3"
     ],
     [
@@ -85,7 +85,7 @@
       "The plant dries. ",
       "The plant is short. ",
       "The plant grows. ",
-      "The_plantgrows_(2).jpg",
+      "The_plantgrows.jpg",
       "",
       "The_plant_grows.mp3"
     ],

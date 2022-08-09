@@ -4,7 +4,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "I like [his] friends.",
+      "I like [his] [friends.]",
       "I_like_his_friends.mp3",
       "n",
       "unlocked"
@@ -85,7 +85,7 @@
       "jumpsentence",
       "1",
       "Description",
-      "[He] is[ ]in[ ]the[ ]bedroom.",
+      "[He] is in the [bedroom.]",
       "He_is_in_the_bedroom.mp3",
       "y",
       "unlocked"

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "53f2a3f1-b05d-468e-ad38-b1e0d38f3c75",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 799,
+  "height": 533,
+  "platformSettings": {},
+  "subMetas": {
+    "Salma_drinks_milk": {
+      "ver": "1.0.6",
+      "uuid": "98f7c1b3-fadb-4247-bff7-79f0fb2ae4f7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "53f2a3f1-b05d-468e-ad38-b1e0d38f3c75",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 799,
+      "height": 533,
+      "rawWidth": 799,
+      "rawHeight": 533,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
