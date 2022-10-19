@@ -4,6 +4,27 @@
       "grid",
       "1",
       "Description",
+      "ea",
+      "r,t,st"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ea",
+      "ch,rn,se"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ar,id,pl",
+      "ea"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
       "t,s,p",
       "ea,ide,an"
     ],
@@ -26,7 +47,7 @@
       "l,ea,f",
       "l,ea,f",
       "leaf.mp3",
-      "leaf1.png",
+      "leaf.png",
       "false",
       "false"
     ],

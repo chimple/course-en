@@ -1,26 +1,32 @@
 {
   "rows": [
     [
-      "openwindow",
+      "grid",
       "1",
       "Description",
-      "LEGIT",
-      "face",
-      "face.png",
-      "rain.png",
-      "face.mp3",
-      "abcdefghijklmnopqrstuvwxyz"
+      "ai",
+      "r,d,m"
     ],
     [
-      "openwindow",
+      "grid",
       "1",
       "Description",
-      "LEGIT",
-      "farm",
-      "farm.png",
-      "rain.png",
-      "farm.mp3",
-      "abcdefghijklmnopqrstuvwxyz"
+      "h,p,fl",
+      "air"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "m,p,g",
+      "ain"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "s,m,p",
+      "aid"
     ],
     [
       "openwindow",
@@ -32,29 +38,6 @@
       "color.png",
       "train.mp3",
       "abcdefghijklmnopqrstuvwxyz"
-    ],
-    [
-      "speakingpet",
-      "1",
-      "Description",
-      "ch.mp3",
-      "sh.mp3",
-      "chap",
-      "chap.mp3",
-      "A",
-      "1,2",
-      "chain",
-      "chain.mp3",
-      "A",
-      "1,2",
-      "share",
-      "share.mp3",
-      "B",
-      "1,2",
-      "ship",
-      "ship.mp3",
-      "B",
-      "1,2"
     ],
     [
       "speakingpet",
@@ -84,9 +67,9 @@
       "1",
       "Description",
       "chair",
-      "*hair",
+      "ch**r",
       "2",
-      "0",
+      "2",
       "spelling_chair.png",
       "chair.mp3"
     ],
@@ -95,7 +78,7 @@
       "1",
       "Description",
       "rain",
-      "****",
+      "r**n",
       "4",
       "2",
       "spelling_rain.png",
@@ -106,9 +89,9 @@
       "1",
       "Description",
       "train",
-      "*r*in",
+      "tr**in",
       "2",
-      "1",
+      "2",
       "spelling_train.png",
       "train.mp3"
     ],

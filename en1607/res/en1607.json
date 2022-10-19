@@ -67,16 +67,25 @@
       "z.mp3"
     ],
     [
-      "rocket",
+      "grid",
       "1",
       "Description",
-      "white",
-      "wh,i,t,e",
-      "wh,i,t,e",
-      "white.mp3",
-      "white.png",
-      "false",
-      "false"
+      "wh",
+      "o,y,om,ich"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "wh",
+      "en,at,ere"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "wh",
+      "ole,eat,eel"
     ],
     [
       "speakingpet",
@@ -120,9 +129,9 @@
       "Description",
       "soundonly_image",
       "white.png",
+      "clock.png",
+      "hands.png",
       "white.png",
-      "purple.png",
-      "black.png",
       "",
       "",
       "white.mp3"

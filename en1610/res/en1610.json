@@ -1,6 +1,20 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "gr",
+      "ab,ay,ill"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "gr",
+      "ain,in,ass"
+    ],
+    [
       "phonictractor",
       "1",
       "Description",
@@ -11,6 +25,18 @@
       "gr.mp3",
       "ow",
       "ow.mp3"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "grandma",
+      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+      "g,r,a,n,d,m",
+      "grandma.mp3",
+      "grandma.png",
+      "true",
+      "false"
     ],
     [
       "rocket",
@@ -37,27 +63,16 @@
       "false"
     ],
     [
-      "speakingpet",
+      "rocket",
       "1",
       "Description",
-      "ow.mp3",
-      "ue.mp3",
-      "grow",
-      "grow.mp3",
-      "A",
-      "3,4",
-      "slow",
-      "slow.mp3",
-      "A",
-      "3,4",
-      "blue",
-      "blue.mp3",
-      "B",
-      "3,4",
-      "glue",
-      "glue.mp3",
-      "B",
-      "3,4"
+      "green",
+      "gr,een",
+      "gr,een",
+      "green.mp3",
+      "green.png",
+      "false",
+      "false"
     ],
     [
       "spelldoor",

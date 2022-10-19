@@ -1,6 +1,20 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "mu,su,ea",
+      "ch"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ri,in,cat",
+      "ch"
+    ],
+    [
       "phonictractor",
       "1",
       "Description",
@@ -53,7 +67,7 @@
       "speakingpet",
       "1",
       "Description",
-      "k.mp3",
+      "k_sound.mp3",
       "ch.mp3",
       "coat",
       "coat.mp3",
@@ -146,7 +160,7 @@
       "1",
       "Description",
       "chair",
-      "*hair",
+      "**air",
       "2",
       "0",
       "spelling_chair.png",
@@ -202,7 +216,7 @@
       "shape, whale",
       "",
       "choose pair with same first sound",
-      "Choose_pair_with_same_first_sound.mp3"
+      "choosepairwithsamefirstsound.mp3"
     ]
   ]
 }
