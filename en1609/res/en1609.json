@@ -1,11 +1,25 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "ba,ro,pa,ti",
+      "ck"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "si,sa,su,",
+      "ck"
+    ],
+    [
       "speakingpet",
       "1",
       "Description",
-      "s.mp3",
-      "k.mp3",
+      "s_sound.mp3",
+      "ck_sound.mp3",
       "sit",
       "sit.mp3",
       "A",
@@ -14,8 +28,8 @@
       "soap.mp3",
       "A",
       "1",
-      "key",
-      "key.mp3",
+      "check",
+      "check",
       "B",
       "1",
       "kick",
@@ -47,52 +61,6 @@
       "3,4"
     ],
     [
-      "speakingpet",
-      "1",
-      "Description",
-      "tr.mp3",
-      "ch.mp3",
-      "truck",
-      "truck.mp3",
-      "A",
-      "1,2",
-      "tree",
-      "tree.mp3",
-      "A",
-      "1,2",
-      "cheek",
-      "cheek.mp3",
-      "B",
-      "1,2",
-      "child",
-      "child.mp3",
-      "B",
-      "1,2"
-    ],
-    [
-      "speakingpet",
-      "1",
-      "Description",
-      "wh.mp3",
-      "ch.mp3",
-      "whale",
-      "whale.mp3",
-      "A",
-      "1,2",
-      "why",
-      "why.mp3",
-      "A",
-      "1,2",
-      "choose",
-      "choose.mp3",
-      "B",
-      "1,2",
-      "chick",
-      "chick.mp3",
-      "B",
-      "1,2"
-    ],
-    [
       "spelldoor",
       "1",
       "Description",
@@ -108,7 +76,7 @@
       "1",
       "Description",
       "duck",
-      "duck.jpg",
+      "duck.png",
       "duck.mp3"
     ],
     [
@@ -141,7 +109,7 @@
       "duck",
       "crab",
       "nest",
-      "duck.jpg"
+      "duck.png"
     ],
     [
       "quizliteracy",

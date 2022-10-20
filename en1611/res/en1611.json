@@ -1,6 +1,20 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "cr",
+      "ab,op,ib"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "cr",
+      "ane,ew,oss"
+    ],
+    [
       "phonictractor",
       "1",
       "Description",
@@ -34,6 +48,18 @@
       "Description",
       "cross",
       "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+      "c,r,o,s",
+      "cross.mp3",
+      "cross.png",
+      "true",
+      "false"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "cross",
+      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
       "c,r,o,s,s",
       "cross.mp3",
       "cross.png",
@@ -45,7 +71,7 @@
       "1",
       "Description",
       "ck.mp3",
-      "i.mp3",
+      "eng_i.mp3",
       "kick",
       "kick.mp3",
       "A",

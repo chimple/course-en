@@ -1,6 +1,27 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "ar",
+      "m,t,k"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ar",
+      "c,e,my"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "c,f,st",
+      "ar"
+    ],
+    [
       "openwindow",
       "1",
       "Description",
@@ -32,17 +53,17 @@
       "rocket.png",
       "square.mp3",
       "abcdefghijklmnopqrstuvwxyz"
-    ],    
+    ],
     [
       "rocket",
       "1",
       "Description",
-      "farm",
-      "f,a,r,m",
-      "f,a,r,m",
-      "farm.mp3",
-      "farm1.png",
-      "false",
+      "carrot",
+      "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z",
+      "c,a,r,o,t",
+      "carrot.mp3",
+      "carrot.png",
+      "true",
       "false"
     ],
     [
@@ -54,7 +75,19 @@
       "c,a,r,r,o,t",
       "carrot.mp3",
       "carrot.png",
-      "true",
+      "false",
+      "true"
+    ],
+    [
+      "rocket",
+      "1",
+      "Description",
+      "farm",
+      "f,a,r,m",
+      "f,a,r,m",
+      "farm.mp3",
+      "farm.png",
+      "false",
       "false"
     ],
     [
@@ -88,7 +121,7 @@
       "soundonly_word",
       "carrot",
       "farm",
-      "carrot",
+      "carrot.",
       "heart",
       "",
       "",

@@ -1,13 +1,6 @@
 {
   "rows": [
     [
-      "grid",
-      "1",
-      "Description",
-      "ch",
-      "ain,air,art"
-    ],
-    [
       "phonictractor",
       "1",
       "Description",
@@ -16,20 +9,6 @@
       "ch.mp3",
       "ch",
       "ch.mp3"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "ch,sh,h",
-      "ip,ut,op"
-    ],
-    [
-      "grid",
-      "1",
-      "Description",
-      "m,d,ch",
-      "ad,ug,op"
     ],
     [
       "phonictractor",
@@ -72,6 +51,41 @@
       "i.mp3",
       "n",
       "n.mp3"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch",
+      "ain,air,art"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch",
+      "ew,ild,eck"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch",
+      "ase,alk,ant"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch,sh,h",
+      "ip,op"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "ch,m,d",
+      "ad,ug,op"
     ],
     [
       "quizliteracy",

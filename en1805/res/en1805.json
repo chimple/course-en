@@ -1,6 +1,20 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "ea",
+      "sy,rly,"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "y,fl,ur",
+      "ea"
+    ],
+    [
       "speakingpet",
       "1",
       "Description",
@@ -28,7 +42,7 @@
       "1",
       "Description",
       "e.mp3",
-      "i.mp3",
+      "eng_i.mp3",
       "egg",
       "egg.mp3",
       "A",
@@ -51,11 +65,11 @@
       "1",
       "Description",
       "th.mp3",
-      "t.mp3",
+      "t_sound.mp3",
       "that",
       "that.mp3",
       "A",
-      "1",
+      "1,2",
       "tall",
       "tall.mp3",
       "B",
@@ -74,9 +88,9 @@
       "1",
       "Description",
       "heart",
-      "*e*rt",
+      "h**rt",
       "2",
-      "1",
+      "2",
       "spelling_heart.png",
       "heart.mp3"
     ],
@@ -85,9 +99,9 @@
       "1",
       "Description",
       "leaf",
-      "*eaf",
+      "l**f",
       "2",
-      "0",
+      "2",
       "spelling_leaf.png",
       "leaf.mp3"
     ],
@@ -96,9 +110,9 @@
       "1",
       "Description",
       "meat",
-      "*eat",
+      "m**t",
       "2",
-      "0",
+      "2",
       "spelling_meat.png",
       "meat.mp3"
     ],

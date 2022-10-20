@@ -1,6 +1,27 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "ow",
+      "n,l,e"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "c,h,n",
+      "ow"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "kn,gr,pl",
+      "ow"
+    ],
+    [
       "speakingpet",
       "1",
       "Description",
@@ -24,29 +45,6 @@
       "3,4"
     ],
     [
-      "speakingpet",
-      "1",
-      "Description",
-      "s.mp3",
-      "sh.mp3",
-      "sing",
-      "sing.mp3",
-      "A",
-      "1",
-      "sheep",
-      "sheep.mp3",
-      "B",
-      "1,2",
-      "she",
-      "she.mp3",
-      "B",
-      "1,2",
-      "show",
-      "show.mp3",
-      "B",
-      "1,2"
-    ],
-    [
       "spelldoor",
       "1",
       "Description",
@@ -56,21 +54,6 @@
       "4",
       "spelling_flower.png",
       "flower.mp3"
-    ],
-    [
-      "writeword",
-      "1",
-      "Description",
-      "flower",
-      "flower.png",
-      "flower.mp3"
-    ],
-    [
-      "writeletter",
-      "1",
-      "Description",
-      "y",
-      "yellow"
     ],
     [
       "writeword",

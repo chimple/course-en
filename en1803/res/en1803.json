@@ -1,6 +1,27 @@
 {
   "rows": [
     [
+      "grid",
+      "1",
+      "Description",
+      "oa",
+      "r,t,k"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "c,b,g",
+      "oat"
+    ],
+    [
+      "grid",
+      "1",
+      "Description",
+      "s,r",
+      "oar"
+    ],
+    [
       "speakingpet",
       "1",
       "Description",
@@ -21,14 +42,14 @@
       "goat",
       "goat.mp3",
       "B",
-      "2,3"
+      "1"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "h.mp3",
-      "b.mp3",
+      "h_sound.mp3",
+      "b_sound.mp3",
       "have",
       "have.mp3",
       "A",
@@ -50,7 +71,7 @@
       "speakingpet",
       "1",
       "Description",
-      "k.mp3",
+      "k_sound.mp3",
       "ch.mp3",
       "coat",
       "coat.mp3",
@@ -96,8 +117,8 @@
       "speakingpet",
       "1",
       "Description",
-      "s.mp3",
-      "k.mp3",
+      "s_sound.mp3",
+      "k_sound.mp3",
       "sit",
       "sit.mp3",
       "A",
@@ -119,8 +140,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t.mp3",
-      "d.mp3",
+      "t_sound.mp3",
+      "d_sound.mp3",
       "pet",
       "pet.mp3",
       "A",
