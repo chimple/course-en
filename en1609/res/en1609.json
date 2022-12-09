@@ -11,15 +11,15 @@
       "grid",
       "1",
       "Description",
-      "si,sa,su,",
+      "si,sa,su,ne",
       "ck"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "s_sound.mp3",
-      "ck_sound.mp3",
+      "s_phonic.mp3",
+      "ck.mp3",
       "sit",
       "sit.mp3",
       "A",

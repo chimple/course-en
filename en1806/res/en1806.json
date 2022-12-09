@@ -97,8 +97,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t_sound.mp3",
-      "d_sound.mp3",
+      "t_phonic.mp3",
+      "d_phonic.mp3",
       "pet",
       "pet.mp3",
       "A",
@@ -158,13 +158,13 @@
       "1",
       "Description",
       "soundonly_image",
-      "shoulders.png",
+      "shoulder.png",
       "feet.png",
       "hands.png",
       "shoulders.png",
       "",
       "",
-      "shoulders.mp3"
+      "shoulder.mp3"
     ],
     [
       "quizliteracy",
