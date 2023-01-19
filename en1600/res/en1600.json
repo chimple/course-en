@@ -20,9 +20,9 @@
       "ch",
       "ch.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -34,9 +34,9 @@
       "ch",
       "ch.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "t",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -48,9 +48,9 @@
       "ch",
       "ch.mp3",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "grid",

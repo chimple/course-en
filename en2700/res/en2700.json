@@ -55,9 +55,9 @@
       "th",
       "th.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "t",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -69,9 +69,9 @@
       "th",
       "th.mp3",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "s",
-      "s.mp3"
+      "s_phonic.mp3"
     ],
     [
       "picturemeaning",

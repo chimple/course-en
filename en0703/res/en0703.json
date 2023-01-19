@@ -8,9 +8,9 @@
       "bo",
       "bo.mp3",
       "b",
-      "b.mp3",
+      "b_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -20,9 +20,9 @@
       "jo",
       "jo.mp3",
       "j",
-      "j.mp3",
+      "j_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -32,9 +32,9 @@
       "po",
       "po.mp3",
       "p",
-      "p.mp3",
+      "p_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -44,9 +44,9 @@
       "co",
       "co.mp3",
       "c",
-      "c.mp3",
+      "c_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -56,9 +56,9 @@
       "mo",
       "mo.mp3",
       "m",
-      "m.mp3",
+      "m_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -68,9 +68,9 @@
       "lo",
       "lo.mp3",
       "l",
-      "l.mp3",
+      "l_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -80,9 +80,9 @@
       "so",
       "so.mp3",
       "s",
-      "s.mp3",
+      "s_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "quizliteracy",

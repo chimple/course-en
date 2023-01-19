@@ -6,9 +6,9 @@
       "Description",
       "5",
       "p",
-      "p.mp3",
+      "p_phonic.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -16,9 +16,9 @@
       "Description",
       "5",
       "q",
-      "q.mp3",
+      "q_phonic.mp3",
       "q",
-      "q.mp3"
+      "q_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -26,9 +26,9 @@
       "Description",
       "5",
       "r",
-      "r.mp3",
+      "r_phonic.mp3",
       "r",
-      "r.mp3"
+      "r_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -36,9 +36,9 @@
       "Description",
       "5",
       "s",
-      "s.mp3",
+      "s_phonic.mp3",
       "s",
-      "s.mp3"
+      "s_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -46,16 +46,16 @@
       "Description",
       "5",
       "t",
-      "t.mp3",
+      "t_phonic.mp3",
       "t",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "m.mp3",
-      "p.mp3",
+      "m_phonic.mp3",
+      "p_phonic.mp3",
       "man",
       "man.mp3",
       "A",
@@ -77,8 +77,8 @@
       "speakingpet",
       "1",
       "Description",
-      "q.mp3",
-      "p.mp3",
+      "q_phonic.mp3",
+      "p_phonic.mp3",
       "quiz",
       "quiz.mp3",
       "A",
@@ -100,8 +100,8 @@
       "speakingpet",
       "1",
       "Description",
-      "r.mp3",
-      "n.mp3",
+      "r_phonic.mp3",
+      "n_phonic.mp3",
       "run",
       "run.mp3",
       "A",
@@ -123,8 +123,8 @@
       "speakingpet",
       "1",
       "Description",
-      "c.mp3",
-      "s.mp3",
+      "c_phonic.mp3",
+      "s_phonic.mp3",
       "cup",
       "cup.mp3",
       "A",
@@ -146,8 +146,8 @@
       "speakingpet",
       "1",
       "Description",
-      "p.mp3",
-      "f.mp3",
+      "p_phonic.mp3",
+      "f_phonic.mp3",
       "park",
       "park.mp3",
       "A",
@@ -169,8 +169,8 @@
       "speakingpet",
       "1",
       "Description",
-      "t.mp3",
-      "r.mp3",
+      "t_phonic.mp3",
+      "r_phonic.mp3",
       "team",
       "team.mp3",
       "A",
@@ -199,7 +199,7 @@
       "m",
       "",
       "",
-      "r.mp3"
+      "r_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -212,7 +212,7 @@
       "v",
       "",
       "",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -225,7 +225,7 @@
       "t",
       "",
       "",
-      "s.mp3"
+      "s_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -238,7 +238,7 @@
       "q",
       "",
       "",
-      "q.mp3"
+      "q_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -251,7 +251,7 @@
       "p",
       "",
       "",
-      "p.mp3"
+      "p_phonic.mp3"
     ]
   ]
 }

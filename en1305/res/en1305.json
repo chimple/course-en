@@ -52,16 +52,16 @@
       "sh",
       "sh.mp3",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "l.mp3",
-      "n.mp3",
+      "l_phonic.mp3",
+      "n_phonic.mp3",
       "lion",
       "lion.mp3",
       "A",

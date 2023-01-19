@@ -80,9 +80,9 @@
       "ch",
       "ch.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "speakingpet",
@@ -111,8 +111,8 @@
       "speakingpet",
       "1",
       "Description",
-      "m.mp3",
-      "p.mp3",
+      "m_phonic.mp3",
+      "p_phonic.mp3",
       "man",
       "man.mp3",
       "A",

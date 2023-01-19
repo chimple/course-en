@@ -29,7 +29,7 @@
       "first",
       "first.mp3",
       "f",
-      "f.mp3",
+      "f_phonic.mp3",
       "ir",
       "ir.mp3",
       "st",
@@ -45,9 +45,9 @@
       "st",
       "st.mp3",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "m",
-      "m.mp3"
+      "m_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -59,9 +59,9 @@
       "st",
       "st.mp3",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "phonictractor",

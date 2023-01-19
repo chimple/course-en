@@ -8,9 +8,9 @@
       "cu",
       "cu.mp3",
       "c",
-      "c.mp3",
+      "c_phonic.mp3",
       "u",
-      "u.mp3"
+      "u_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -20,9 +20,9 @@
       "mu",
       "mu.mp3",
       "m",
-      "m.mp3",
+      "m_phonic.mp3",
       "u",
-      "u.mp3"
+      "u_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -32,9 +32,9 @@
       "pu",
       "pu.mp3",
       "p",
-      "p.mp3",
+      "p_phonic.mp3",
       "u",
-      "u.mp3"
+      "u_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -44,9 +44,9 @@
       "ru",
       "ru.mp3",
       "r",
-      "r.mp3",
+      "r_phonic.mp3",
       "u",
-      "u.mp3"
+      "u_phonic.mp3"
     ],
     [
       "quizliteracy",

@@ -6,9 +6,9 @@
       "Description",
       "5",
       "f",
-      "f.mp3",
+      "f_phonic.mp3",
       "f",
-      "f.mp3"
+      "f_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -16,9 +16,9 @@
       "Description",
       "5",
       "g",
-      "g.mp3",
+      "g_phonic.mp3",
       "g",
-      "g.mp3"
+      "g_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -26,9 +26,9 @@
       "Description",
       "5",
       "h",
-      "h.mp3",
+      "h_phonic.mp3",
       "h",
-      "h.mp3"
+      "h_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -36,9 +36,9 @@
       "Description",
       "5",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -46,16 +46,16 @@
       "Description",
       "5",
       "j",
-      "j.mp3",
+      "j_phonic.mp3",
       "j",
-      "j.mp3"
+      "j_phonic.mp3"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "g.mp3",
-      "f.mp3",
+      "g_phonic.mp3",
+      "f_phonic.mp3",
       "game",
       "game.mp3",
       "A",
@@ -77,8 +77,8 @@
       "speakingpet",
       "1",
       "Description",
-      "g.mp3",
-      "h.mp3",
+      "g_phonic.mp3",
+      "h_phonic.mp3",
       "game",
       "game.mp3",
       "A",
@@ -100,8 +100,8 @@
       "speakingpet",
       "1",
       "Description",
-      "h.mp3",
-      "i.mp3",
+      "h_phonic.mp3",
+      "i_phonic.mp3",
       "hand",
       "hand.mp3",
       "A",
@@ -123,8 +123,8 @@
       "speakingpet",
       "1",
       "Description",
-      "i.mp3",
-      "j.mp3",
+      "i_phonic.mp3",
+      "j_phonic.mp3",
       "big",
       "big.mp3",
       "A",
@@ -146,8 +146,8 @@
       "speakingpet",
       "1",
       "Description",
-      "f.mp3",
-      "h.mp3",
+      "f_phonic.mp3",
+      "h_phonic.mp3",
       "fun",
       "fun.mp3",
       "A",
@@ -176,8 +176,9 @@
       "q",
       "",
       "",
-      "f.mp3",
-      "",
+      "f_phonic.mp3",
+    ],
+    [
       "quizliteracy",
       "soundonly_word",
       "J",
@@ -186,7 +187,7 @@
       "Y",
       "",
       "",
-      "j.mp3"
+      "j_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -199,7 +200,7 @@
       "y",
       "",
       "",
-      "j.mp3"
+      "j_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -212,7 +213,7 @@
       "r",
       "",
       "",
-      "h.mp3"
+      "h_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -225,7 +226,7 @@
       "i",
       "",
       "",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -238,7 +239,7 @@
       "g",
       "",
       "",
-      "g.mp3"
+      "g_phonic.mp3"
     ]
   ]
 }
