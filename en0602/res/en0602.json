@@ -6,9 +6,9 @@
       "Description",
       "5",
       "k",
-      "k.mp3",
+      "k_phonic.mp3",
       "k",
-      "k.mp3"
+      "k_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -16,9 +16,9 @@
       "Description",
       "5",
       "l",
-      "l.mp3",
+      "l_phonic.mp3",
       "l",
-      "l.mp3"
+      "l_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -26,9 +26,9 @@
       "Description",
       "5",
       "m",
-      "m.mp3",
+      "m_phonic.mp3",
       "m",
-      "m.mp3"
+      "m_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -36,9 +36,9 @@
       "Description",
       "5",
       "n",
-      "n.mp3",
+      "n_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -46,16 +46,16 @@
       "Description",
       "5",
       "o",
-      "o.mp3",
+      "o_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "h.mp3",
-      "k.mp3",
+      "h_phonic.mp3",
+      "k_phonic.mp3",
       "hill",
       "hill.mp3",
       "A",
@@ -77,8 +77,8 @@
       "speakingpet",
       "1",
       "Description",
-      "m.mp3",
-      "k.mp3",
+      "m_phonic.mp3",
+      "k_phonic.mp3",
       "man",
       "man.mp3",
       "A",
@@ -100,8 +100,8 @@
       "speakingpet",
       "1",
       "Description",
-      "l.mp3",
-      "m.mp3",
+      "l_phonic.mp3",
+      "m_phonic.mp3",
       "leg",
       "leg.mp3",
       "A",
@@ -123,8 +123,8 @@
       "speakingpet",
       "1",
       "Description",
-      "l.mp3",
-      "n.mp3",
+      "l_phonic.mp3",
+      "n_phonic.mp3",
       "lion",
       "lion.mp3",
       "A",
@@ -146,8 +146,8 @@
       "speakingpet",
       "1",
       "Description",
-      "o.mp3",
-      "a.mp3",
+      "o_phonic.mp3",
+      "a_phonic.mp3",
       "top",
       "top.mp3",
       "A",
@@ -176,7 +176,7 @@
       "p",
       "",
       "",
-      "k.mp3"
+      "k_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -189,7 +189,7 @@
       "m",
       "",
       "",
-      "m.mp3"
+      "m_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -202,7 +202,7 @@
       "a",
       "",
       "",
-      "l.mp3"
+      "l_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -215,7 +215,7 @@
       "d",
       "",
       "",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -228,7 +228,7 @@
       "u",
       "",
       "",
-      "o.mp3"
+      "o_phonic.mp3"
     ]
   ]
 }

@@ -18,9 +18,9 @@
       "gosh",
       "gosh.mp3",
       "g",
-      "g.mp3",
+      "g_phonic.mp3",
       "o",
-      "o.mp3",
+      "o_phonic.mp3",
       "sh",
       "sh.mp3"
     ],
@@ -32,9 +32,9 @@
       "rush",
       "rush.mp3",
       "r",
-      "r.mp3",
+      "r_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "sh",
       "sh.mp3"
     ],
@@ -50,7 +50,7 @@
       "ee",
       "ee.mp3",
       "p",
-      "p.mp3"
+      "p_phonic.mp3"
     ],
     [
       "grid",

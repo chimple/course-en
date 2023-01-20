@@ -24,9 +24,9 @@
       "cr",
       "cr.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "b",
-      "b.mp3"
+      "b_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -38,9 +38,9 @@
       "cr",
       "cr.mp3",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "b",
-      "b.mp3"
+      "b_phonic.mp3"
     ],
     [
       "rocket",

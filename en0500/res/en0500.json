@@ -6,9 +6,9 @@
       "Description",
       "5",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "a",
-      "a.mp3"
+      "a_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -16,9 +16,9 @@
       "Description",
       "5",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "e",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -26,9 +26,9 @@
       "Description",
       "5",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -36,9 +36,9 @@
       "Description",
       "5",
       "o",
-      "o.mp3",
+      "o_phonic.mp3",
       "o",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -46,9 +46,9 @@
       "Description",
       "5",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "u",
-      "u.mp3"
+      "u_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -61,7 +61,7 @@
       "o",
       "",
       "",
-      "a.mp3"
+      "a_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -74,7 +74,7 @@
       "i",
       "",
       "",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -87,7 +87,7 @@
       "i",
       "",
       "",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -100,7 +100,7 @@
       "i",
       "",
       "",
-      "o.mp3"
+      "o_phonic.mp3"
     ],
     [
       "quizliteracy",
@@ -113,7 +113,7 @@
       "u",
       "",
       "",
-      "u.mp3"
+      "u_phonic.mp3"
     ]
   ]
 }

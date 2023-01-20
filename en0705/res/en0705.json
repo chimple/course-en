@@ -8,11 +8,11 @@
       "bug",
       "bug.mp3",
       "b",
-      "b.mp3",
+      "b_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "g",
-      "g.mp3"
+      "g_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -22,11 +22,11 @@
       "hug",
       "hug.mp3",
       "h",
-      "h.mp3",
+      "h_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "g",
-      "g.mp3"
+      "g_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -36,11 +36,11 @@
       "fun",
       "fun.mp3",
       "f",
-      "f.mp3",
+      "f_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -50,11 +50,11 @@
       "run",
       "run.mp3",
       "r",
-      "r.mp3",
+      "r_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -64,18 +64,18 @@
       "nut",
       "nut.mp3",
       "n",
-      "n.mp3",
+      "n_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "t",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "speakingpet",
       "1",
       "Description",
-      "e.mp3",
-      "u.mp3",
+      "e_phonic.mp3",
+      "u_phonic.mp3",
       "wet",
       "wet.mp3",
       "A",
@@ -97,8 +97,8 @@
       "speakingpet",
       "1",
       "Description",
-      "i.mp3",
-      "u.mp3",
+      "i_phonic.mp3",
+      "u_phonic.mp3",
       "big",
       "big.mp3",
       "A",

@@ -15,11 +15,11 @@
       "boil",
       "boil.mp3",
       "b",
-      "b.mp3",
+      "b_phonic.mp3",
       "oi",
       "oi.mp3",
       "l",
-      "l.mp3"
+      "l_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -29,11 +29,11 @@
       "soil",
       "soil.mp3",
       "s",
-      "s.mp3",
+      "s_phonic.mp3",
       "oi",
       "oi.mp3",
       "l",
-      "l.mp3"
+      "l_phonic.mp3"
     ],
     [
       "grid",

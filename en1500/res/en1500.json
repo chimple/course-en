@@ -50,11 +50,11 @@
       "fun",
       "fun.mp3",
       "f",
-      "f.mp3",
+      "f_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -64,11 +64,11 @@
       "run",
       "run.mp3",
       "r",
-      "r.mp3",
+      "r_phonic.mp3",
       "u",
-      "u.mp3",
+      "u_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "rocket",

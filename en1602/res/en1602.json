@@ -20,9 +20,9 @@
       "th",
       "th.mp3",
       "a",
-      "a.mp3",
+      "a_phonic.mp3",
       "t",
-      "t.mp3"
+      "t_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -34,9 +34,9 @@
       "th",
       "th.mp3",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "m",
-      "m.mp3"
+      "m_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -48,9 +48,9 @@
       "th",
       "th.mp3",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "n",
-      "n.mp3"
+      "n_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -62,9 +62,9 @@
       "th",
       "th.mp3",
       "e",
-      "e.mp3",
+      "e_phonic.mp3",
       "y",
-      "y.mp3"
+      "y_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -76,9 +76,9 @@
       "th",
       "th.mp3",
       "i",
-      "i.mp3",
+      "i_phonic.mp3",
       "s",
-      "s.mp3"
+      "s_phonic.mp3"
     ],
     [
       "grid",

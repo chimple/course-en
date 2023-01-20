@@ -8,9 +8,9 @@
       "bi",
       "bi.mp3",
       "b",
-      "b.mp3",
+      "b_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -20,9 +20,9 @@
       "fi",
       "fi.mp3",
       "f",
-      "f.mp3",
+      "f_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -32,9 +32,9 @@
       "li",
       "li.mp3",
       "l",
-      "l.mp3",
+      "l_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -44,9 +44,9 @@
       "zi",
       "zi.mp3",
       "z",
-      "z.mp3",
+      "z_phonic.mp3",
       "i",
-      "i.mp3"
+      "i_phonic.mp3"
     ],
     [
       "quizliteracy",

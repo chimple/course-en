@@ -10,7 +10,7 @@
       "p",
       "p.mp3",
       "e",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -20,9 +20,9 @@
       "se",
       "se.mp3",
       "s",
-      "s.mp3",
+      "s_phonic.mp3",
       "e",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -32,9 +32,9 @@
       "ve",
       "ve.mp3",
       "v",
-      "v.mp3",
+      "v_phonic.mp3",
       "e",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "phonictractor",
@@ -44,9 +44,9 @@
       "ye",
       "ye.mp3",
       "y",
-      "y.mp3",
+      "y_phonic.mp3",
       "e",
-      "e.mp3"
+      "e_phonic.mp3"
     ],
     [
       "quizliteracy",
