@@ -78,7 +78,7 @@
       "1",
       "Description",
       "b_phonic.mp3",
-      "c_phonic.mp3",
+      "ch.mp3",
       "tub",
       "tub.mp3",
       "A",
@@ -90,11 +90,11 @@
       "chap",
       "chap.mp3",
       "B",
-      "1",
+      "1,2",
       "chain",
       "chain.mp3",
       "B",
-      "1"
+      "1,2"
     ],
     [
       "speakingpet",
