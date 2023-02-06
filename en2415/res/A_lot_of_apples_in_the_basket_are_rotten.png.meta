@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d428479b-a677-4793-98b7-adf8ee1d9e80",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 382,
+  "platformSettings": {},
+  "subMetas": {
+    "A_lot_of_apples_in_the_basket_are_rotten": {
+      "ver": "1.0.6",
+      "uuid": "7ee55ed1-192c-49f1-903a-463092f4bf30",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d428479b-a677-4793-98b7-adf8ee1d9e80",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 512,
+      "height": 382,
+      "rawWidth": 512,
+      "rawHeight": 382,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
