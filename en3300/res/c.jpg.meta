@@ -1,6 +1,6 @@
 {
   "ver": "2.3.7",
-  "uuid": "97c44c0e-d702-4dc9-b023-f49e652a3f7e",
+  "uuid": "cb22f3d5-891f-48e8-bbbc-3d298a485862",
   "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
@@ -12,11 +12,11 @@
   "height": 4000,
   "platformSettings": {},
   "subMetas": {
-    "Itisa_stronglion": {
+    "c": {
       "ver": "1.0.6",
-      "uuid": "9c9eba26-a6af-4f61-9d7f-01ece985e22b",
+      "uuid": "883dce68-f386-4035-b164-7c3722b4b52a",
       "importer": "sprite-frame",
-      "rawTextureUuid": "97c44c0e-d702-4dc9-b023-f49e652a3f7e",
+      "rawTextureUuid": "cb22f3d5-891f-48e8-bbbc-3d298a485862",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
