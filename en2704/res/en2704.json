@@ -61,7 +61,7 @@
       "Description",
       "He/is/shouting/angrily.",
       "",
-      "angry.png",
+      "angry.jpg",
       "He_is_shouting_angrily.mp3"
     ],
     [
@@ -103,7 +103,7 @@
       "quickly",
       "fastly",
       "slowly",
-      "loudly",
+      "quickly",
       "quickly.png",
       "",
       "quickly.mp3"
@@ -117,7 +117,7 @@
       "slowly",
       "fast",
       "quickly",
-      "",
+      "slowly.png",
       "",
       "slowly.mp3"
     ]
