@@ -35,7 +35,7 @@
       "He can drive.",
       "She can drive.",
       "He can draw.",
-      "l7_hecandrive.png",
+      "l7_hecandrive.jpg",
       "",
       "hecandrive.mp3"
     ],
@@ -87,7 +87,7 @@
       "read",
       "sing",
       "swim",
-      "l8_boyreading.png"
+      "l8_boyreading.jpg"
     ],
     [
       "quizliteracy",
@@ -207,10 +207,10 @@
       "1",
       "Description",
       "soundonly_image",
-      "l12_hecantcookwell.png",
-      "l12_shecancookwell.png",
-      "l12_theycannotcookwell.png",
-      "l12_hecantcookwell.png",
+      "l12_hecantcookwell.jpg",
+      "l12_shecancookwell.jpg",
+      "l12_theycannotcookwell.jpg",
+      "l12_hecantcookwell.jpg",
       "",
       "",
       "He_can't_cook_well.mp3"
@@ -237,7 +237,7 @@
       "The nurse is taking care of a baby.",
       "He is going to make a house.",
       "The doctor is treating a patient.",
-      "l6_hedoctor.png",
+      "l6_hedoctor.jpg",
       "",
       "The_doctor_is_treating_a_patient.mp3"
     ],
@@ -250,7 +250,7 @@
       "The woman is sleeping in the bedroom.",
       "The woman is cooking in the kitchen.",
       "The woman is washing her hands in the bathroom.",
-      "l9_shebathroom.png",
+      "l9_shebathroom.jpg",
       "",
       "The_woman_is_washing_her_hands_in_the_bathroom.mp3"
     ]
