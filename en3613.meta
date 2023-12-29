@@ -1,6 +1,6 @@
 {
   "ver": "1.1.3",
-  "uuid": "d324c2ef-4f43-4968-9cab-a53f54a2b99d",
+  "uuid": "c527cb54-1cce-41eb-b2c2-e0167386589d",
   "importer": "folder",
   "isBundle": true,
   "bundleName": "",
@@ -26,5 +26,4 @@
     "web-desktop": false
   },
   "subMetas": {}
-}
 }
