@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8d62b676-0388-4b2d-a9de-5391e5af30e4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 708,
+  "height": 737,
+  "platformSettings": {},
+  "subMetas": {
+    "boy-shirts": {
+      "ver": "1.0.4",
+      "uuid": "a9d991d6-9ed5-4c27-bc1d-5093174875e0",
+      "rawTextureUuid": "8d62b676-0388-4b2d-a9de-5391e5af30e4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 708,
+      "height": 737,
+      "rawWidth": 708,
+      "rawHeight": 737,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

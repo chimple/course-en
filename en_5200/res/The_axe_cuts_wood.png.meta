@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f54ed477-7ce6-41bb-a744-67cd176b9afc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 740,
+  "height": 827,
+  "platformSettings": {},
+  "subMetas": {
+    "The_axe_cuts_wood": {
+      "ver": "1.0.4",
+      "uuid": "bafac732-2a9b-490b-86c9-b9638471064e",
+      "rawTextureUuid": "f54ed477-7ce6-41bb-a744-67cd176b9afc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 740,
+      "height": 827,
+      "rawWidth": 740,
+      "rawHeight": 827,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
