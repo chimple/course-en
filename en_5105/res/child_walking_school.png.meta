@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f8e24caa-4b3f-4a0d-a96a-aafeaf1d1282",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 611,
+  "height": 612,
+  "platformSettings": {},
+  "subMetas": {
+    "child_walking_school": {
+      "ver": "1.0.4",
+      "uuid": "224289c9-ad93-4af3-9571-7d7d56af66a1",
+      "rawTextureUuid": "f8e24caa-4b3f-4a0d-a96a-aafeaf1d1282",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 611,
+      "height": 612,
+      "rawWidth": 611,
+      "rawHeight": 612,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
