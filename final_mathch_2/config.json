@@ -1,0 +1,389 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "ವೈರಿ",
+                    "audio": "ವೈರಿ.mp3"
+                },
+                {
+                    "text": "ಸ್ನೇಹಿತ",
+                    "audio": "ಸ್ನೇಹಿತ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ತಂದೆ",
+                    "audio": "ತಂದೆ.mp3"
+                },
+                {
+                    "text": "ಅಣ್ಣ",
+                    "audio": "ಅಣ್ಣ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_31",
+                "text": "ಪದದ ಸರಿಯಾದ ಅರ್ಥವನ್ನು ಆರಿಸಿ. - ಗೆಳೆಯ",
+                "audio": "ಗೆಳೆಯ.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಮುಂಬಯಿ",
+                    "audio": "ಮುಂಬಯಿ.mp3"
+                },
+                {
+                    "text": "ದೆಹೆಲಿ",
+                    "audio": "ದೆಹೆಲಿ.mp3"
+                },
+                {
+                    "text": "ಬೆಂಗಳೂರು",
+                    "audio": "ಬೆಂಗಳೂರು.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಹೈದರಾಬಾದ್",
+                    "audio": "ಹೈದರಾಬಾದ್.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_32",
+                "text": "ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಯಾವುದು?",
+                "audio": "ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ ಯಾವುದು.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಅಕ್ಕಿ",
+                    "audio": "ಅಕ್ಕಿ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ತೊಂಡೆಕಾಯಿ",
+                    "audio": "ತೊಂಡೆಕಾಯಿ.mp3"
+                },
+                {
+                    "text": "ವೀಳ್ಯದೆಲೆ",
+                    "audio": "ವೀಳ್ಯದೆಲೆ.mp3"
+                },
+                {
+                    "text": "ಮೆಣಸಿನಕಾಯಿ",
+                    "audio": "ಮೆಣಸಿನಕಾಯಿ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_33",
+                "text": "ಚಿತ್ರಕ್ಕೆ ಪದವನ್ನು ಹೊಂದಿಸಿ",
+                "image": "rice.png"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಬಲೆಯಲ್ಲಿ",
+                    "audio": "ಬಲೆಯಲ್ಲಿ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ನೀರಲ್ಲಿ",
+                    "audio": "ನೀರಲ್ಲಿ.mp3"
+                },
+                {
+                    "text": "ಬರದಲ್ಲಿ",
+                    "audio": "ಬರದಲ್ಲಿ.mp3"
+                },
+                {
+                    "text": "ಬೆಲೆಯಲ್ಲಿ",
+                    "audio": "ಬೆಲೆಯಲ್ಲಿ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_34",
+                "text": "ನರಿಯ ಮರಿ _______ ಸಿಕ್ಕಿಕೊಂಡಿತು.",
+                "audio": "ನರಿಯ ಮರಿ ಬಲೆಯಲ್ಲಿ ಸಿಕ್ಕಿಕೊಂಡಿತು.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "ರಜಧಾನಿ",
+                    "audio": "ರಜಧಾನಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜದಾನಿ",
+                    "audio": "ರಾಜದಾನಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜಧಾಣಿ",
+                    "audio": "ರಾಜಧಾಣಿ.mp3"
+                },
+                {
+                    "text": "ರಾಜಧಾನಿ",
+                    "audio": "ರಾಜಧಾನಿ.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_35",
+                "text": "ಸರಿಯಾದ ಪದವನ್ನು ಆರಿಸಿ",
+                "audio": "ರಾಜಧಾನಿ.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "poteto"
+                },
+                {
+                    "text": "potata"
+                },
+                {
+                    "text": "potato",
+                    "isCorrect": true
+                },
+                {
+                    "text": "patoto"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_36",
+                "text": "Choose the correct spelling.",
+                "image": "potato.png",
+                "audio": "Choose the correct spelling.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "image": "peeling.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "cooking.png"
+                },
+                {
+                    "image": "sheeatsapple.png"
+                },
+                {
+                    "image": "Wash_your_hands_1.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_37",
+                "text": "Peeling",
+                "audio": "peeling.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "image": "boy between chairs.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "2boys1chair.png"
+                },
+                {
+                    "image": "boy sitting .png"
+                },
+                {
+                    "image": "girl2chairs.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_38",
+                "text": "A boy is standing between two chairs.",
+                "audio": "A boy is standing between two chairs.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "cow",
+                    "isCorrect": true
+                },
+                {
+                    "text": "dog"
+                },
+                {
+                    "text": "goat"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_39",
+                "text": "Which animal is the biggest of the three?",
+                "image": "l13_dogbtwcow_goat.png"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "He",
+                    "isCorrect": true
+                },
+                {
+                    "text": "She"
+                },
+                {
+                    "text": "They"
+                },
+                {
+                    "text": "It"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_40",
+                "text": "__ is my brother.",
+                "audio": "He is my brother.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "19"
+                },
+                {
+                    "text": "22"
+                },
+                {
+                    "text": "29",
+                    "isCorrect": true
+                },
+                {
+                    "text": "27"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_41",
+                "text": "16 + 13 =",
+                "audio": "sixteen plus thirteen is equal to.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "12"
+                },
+                {
+                    "text": "11",
+                    "isCorrect": true
+                },
+                {
+                    "text": "21"
+                },
+                {
+                    "text": "13"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_42",
+                "text": "27 - 16 =",
+                "audio": "27 minus 16 is equal to.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "46"
+                },
+                {
+                    "text": "54"
+                },
+                {
+                    "text": "48",
+                    "isCorrect": true
+                },
+                {
+                    "text": "47"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_43",
+                "text": "6 x 8 =",
+                "image": "mul.png",
+                "audio": "6 times 8 is equal to.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "65",
+                    "isCorrect": true
+                },
+                {
+                    "text": "55"
+                },
+                {
+                    "text": "67"
+                },
+                {
+                    "text": "63"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_44",
+                "text": "Add",
+                "image": "37 + 28.png",
+                "audio": "37 plus 28 is equal to.mp3"
+            },
+            "questionType": "multiOptions"
+        },
+        {
+            "options": [
+                {
+                    "text": "22"
+                },
+                {
+                    "text": "13"
+                },
+                {
+                    "text": "21"
+                },
+                {
+                    "text": "26",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_45",
+                "text": "Subtract",
+                "image": "34 - 8.png",
+                "audio": "34 minus 8 is equal to.mp3"
+            },
+            "questionType": "multiOptions"
+        }
+    ],
+    "type": "multiOptions"
+}
