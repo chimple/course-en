@@ -1,0 +1,388 @@
+{
+    "data": [
+        {
+            "options": [
+                {
+                    "text": "ಬ",
+                    "audio": "ಬ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ರ",
+                    "audio": "ರ.mp3"
+                },
+                {
+                    "text": "ಅ",
+                    "audio": "ಅ.mp3"
+                },
+                {
+                    "text": "ಸ",
+                    "audio": "ಸ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_1",
+                "text": "_ಸವ",
+                "image": "basava.png",
+                "audio": "ಬ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಢಣಢಣ",
+                    "audio": "ಢಣಢಣ.mp3"
+                },
+                {
+                    "text": "ಝಣಝಣ",
+                    "audio": "ಝಣಝಣ.mp3"
+                },
+                {
+                    "text": "ಪಳಪಳ",
+                    "audio": "ಪಳಪಳ.mp3"
+                },
+                {
+                    "text": "ಘಮಘಮ",
+                    "audio": "ಘಮಘಮ.mp3",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_2",
+                "text": "ಮಾವಿನ ಫಲದ ಪರಿಮಳ ____.",
+                "image": "mango.png",
+                "audio": "ಮಾವಿನ ಫಲದ ಪರಿಮಳ ಘಮಘಮ.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ಸು",
+                    "audio": "ಸು.mp3"
+                },
+                {
+                    "text": "ಸೂ",
+                    "audio": "ಸೂ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಶೂ",
+                    "audio": "ಶೂ.mp3"
+                },
+                {
+                    "text": "ಷು",
+                    "audio": "ಷು.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_3",
+                "text": "_ರ್ಯಕಾಂತಿ",
+                "audio": "ಸೂ.mp3",
+                "image": "sunflower.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ದುಃಖಿತ",
+                    "audio": "ದುಃಖಿತ.mp3"
+                },
+                {
+                    "text": "ಹರುಷದ",
+                    "audio": "ಹರುಷದ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಬೇಸರದ",
+                    "audio": "ಬೇಸರದ.mp3"
+                },
+                {
+                    "text": "ಬಿರುಸಾದ",
+                    "audio": "ಬಿರುಸಾದ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_4",
+                "text": "ಚೆಂಡಿನ ಆಟ ____ಆಟ.",
+                "audio": "ಚೆಂಡಿನ ಆಟ ಹರುಷದ ಆಟ.mp3",
+                "image": "ballgame.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "ನಗುತ್ತಾ",
+                    "audio": "ನಗುತ್ತಾ.mp3"
+                },
+                {
+                    "text": "ಉರುಳಾಡುತ್ತಾ",
+                    "audio": "ಉರುಳಾಡುತ್ತಾ.mp3"
+                },
+                {
+                    "text": "ಕುಣಿದಾಡುತ್ತಾ",
+                    "audio": "ಕುಣಿದಾಡುತ್ತಾ.mp3",
+                    "isCorrect": true
+                },
+                {
+                    "text": "ಅಳುತ್ತಾ",
+                    "audio": "ಅಳುತ್ತಾ.mp3"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_5",
+                "text": "ವಾಕ್ಯ ಪೂರ್ತಿಗೊಳಿಸಿ - ಒಂದು ಅಳಿಲು _____ ಅಲ್ಲಿಗೆ ಬಂದಿತು.",
+                "audio": "ವಾಕ್ಯ ಪೂರ್ತಿಗೊಳಿಸಿ ಒಂದು ಅಳಿಲು ಕುಣಿದಾಡುತ್ತಾ ಅಲ್ಲಿಗೆ ಬಂದಿತು.mp3",
+                "image": "squirrel.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "r",
+                    "isCorrect": true
+                },
+                {
+                    "text": "k"
+                },
+                {
+                    "text": "l"
+                },
+                {
+                    "text": "t"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_6",
+                "text": "R"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "rhinoceros.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "hippo.png"
+                },
+                {
+                    "image": "lion.png"
+                },
+                {
+                    "image": "elephant .png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_7",
+                "text": "Rhinoceros",
+                "audio": "rhinoceros.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "farmer",
+                    "isCorrect": true
+                },
+                {
+                    "text": "doctor"
+                },
+                {
+                    "text": "barber"
+                },
+                {
+                    "text": "teacher"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_8",
+                "text": "The ______ grows our food.",
+                "image": "farmer.png",
+                "audio": "The farmer grows our food.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "excuse me"
+                },
+                {
+                    "text": "sorry"
+                },
+                {
+                    "text": "thank you"
+                },
+                {
+                    "text": "please",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_9",
+                "text": "Will you open this bottle, ?"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "He",
+                    "isCorrect": true
+                },
+                {
+                    "text": "She"
+                },
+                {
+                    "text": "They"
+                },
+                {
+                    "text": "We"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_10",
+                "text": "__ stands next to the tree.",
+                "image": "nexttotree.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "9.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "10.png"
+                },
+                {
+                    "image": "11.png"
+                },
+                {
+                    "image": "8.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_11",
+                "text": "9",
+                "audio": "nine.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "image": "circle.png",
+                    "isCorrect": true
+                },
+                {
+                    "image": "rectangle.png"
+                },
+                {
+                    "image": "square.png"
+                },
+                {
+                    "image": "triangle.png"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_12",
+                "text": "Circle",
+                "audio": "Circle.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "45",
+                    "isCorrect": true
+                },
+                {
+                    "text": "43"
+                },
+                {
+                    "text": "39"
+                },
+                {
+                    "text": "41"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_13",
+                "text": "Which is the biggest number?",
+                "audio": "Which is the biggest number.mp3"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "sphere"
+                },
+                {
+                    "text": "cone"
+                },
+                {
+                    "text": "cylinder"
+                },
+                {
+                    "text": "cube",
+                    "isCorrect": true
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_14",
+                "image": "cube.png"
+            },
+            "questionType": "text"
+        },
+        {
+            "options": [
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "5"
+                },
+                {
+                    "text": "8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "9"
+                }
+            ],
+            "optionsType": "text",
+            "question": {
+                "id": "question_15",
+                "text": "4, 6, _, 10",
+                "audio": "Skip by twos.mp3"
+            },
+            "questionType": "text"
+        }
+    ],
+    "type": "multiOptions"
+}
