@@ -26,7 +26,7 @@
       "u",
       "u_phonic.mp3",
       "rs",
-      "rs_phonic.mp3"
+      "rs.mp3"
     ],
     [
       "phonictractor",
@@ -51,10 +51,10 @@
       "theirs.mp3",
       "th",
       "th.mp3",
-      "e",
-      "e_phonic.mp3",
+      "ei",
+      "ei.mp3",
       "rs",
-      "rs_phonic.mp3"
+      "rs.mp3"
     ],
     [
       "phonictractor",
@@ -64,7 +64,7 @@
       "ours",
       "ours.mp3",
       "ou",
-      "ou.mp3",
+      "ou_phonic_sound.mp3",
       "r",
       "r_phonic.mp3",
       "s",
